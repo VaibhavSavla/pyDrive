@@ -32,7 +32,7 @@ def put_recursive(service, cache, location):
         for new_dir in y:
             cache = mkdir(service, os.path.join(temp_loc, new_dir), cache)
         for new_file in z:
-            cache = put_file(service, cache, os.path.join(x, new_file), name_to_id(temp_loc, cache)[-1])
+            cache = put_file(service, cache, os.path.join(x, new_file), name_to_id(temp_loc, cache)[-1], False)
     return cache
 
 def put_file(service, cache, location, parent_id, std_in):

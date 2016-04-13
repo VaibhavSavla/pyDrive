@@ -3,8 +3,10 @@ from utility.paths import getpwd
 
 from colorama import init
 from colorama import Fore
-
+from colorama import Style
 import os
+
+init()
 
 def process_args(args_str):
     args_str = args_str.replace("\ ", "%20")
@@ -25,14 +27,13 @@ def name_to_id(path_name, cache):
     return path[1:]
 
 def print_input_prompt(email, cache, mode):
-    init(autoreset=True)
     email = email.split('@')[0]
     print(Fore.GREEN + email + "@" + mode, end=" ")
     pwd_names = [cache.files[id].name for id in getpwd()[1:]]
     print(Fore.BLUE + os.path.join("~", *pwd_names), end=" ")
     print(Fore.BLUE + "$", end=" ")
-
+    print(Style.RESET_ALL, end='')
 
 def print_blue(message):
-    init(autoreset=True)
     print(Fore.BLUE + message)
+    print(Style.RESET_ALL, end='')
