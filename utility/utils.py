@@ -11,7 +11,13 @@ init()
 def process_args(args_str):
     args_str = args_str.replace("\ ", "%20")
     args = args_str.split()
-    return [item.replace("%20", " ") for item in args]
+    final_args = []
+    for arg in args:
+        arg = arg.replace("%20", " ")
+        if arg.endswith('/'):
+            arg = arg[:-1]
+        final_args.append(arg)
+    return final_args
 
 def name_to_id(path_name, cache):
     path = [ getcwd() ]
@@ -37,3 +43,9 @@ def print_input_prompt(email, cache, mode):
 def print_blue(message):
     print(Fore.BLUE + message)
     print(Style.RESET_ALL, end='')
+
+
+def full_email(email):
+    if "@" in email:
+        return email
+    return email + "@gmail.com"

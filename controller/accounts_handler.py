@@ -2,6 +2,7 @@ import pickle
 
 from utility.paths import *
 from model.account import account
+from utility.utils import full_email
 from auth.auth import get_service
 import sys
 import controller.cache_handler as cache_handler
@@ -59,7 +60,7 @@ class handler:
         
     def switch_account(self, email):
         for account in self.accounts:
-            if account.email == email:
+            if account.email == full_email(email):
                 self.current = account.id-1
                 account.cache = cache_handler.build_cache(account.service, account.id)
                 set_root_dir(self.accounts_info[self.current]['root'])

@@ -1,4 +1,6 @@
 from utility.utils import name_to_id
+from utility.utils import full_email
+
 
 def callback(request_id, response, exception):
     if exception:
@@ -28,7 +30,7 @@ def share(args, service, cache):
     user_permission = {
         'type': 'user',
         'role': 'writer',
-        'emailAddress': user
+        'emailAddress': full_email(user)
     }
 
     batch.add(service.permissions().create(
