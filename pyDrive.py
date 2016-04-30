@@ -9,6 +9,7 @@ from controller.commands.mkdir import mkdir
 from controller.commands.put import handle_put
 from controller.cache_handler import rebuild_cache
 from controller.commands.share import share
+from controller.commands.sync import sync_handler
 
 import pickle
 import os
@@ -46,6 +47,8 @@ def main():
             with open('./help.txt', 'r') as f:
                 for line in f:
                     print(line, end='')
+        elif args[0] == 'sync':
+            sync_handler(args, account.service, account.cache)
         elif args[0] == 'done':
             break
         else:

@@ -5,6 +5,7 @@ import sys
 import os
 import pickle
 
+
 def build_cache(service, account_id):
     cache_file = os.path.join(account_dir(account_id), "cache.p")
     if os.path.exists(cache_file):
@@ -38,6 +39,7 @@ def build_cache(service, account_id):
     c = cache(files, directory_tree)
     pickle.dump(c, open(cache_file, 'wb'))
     return c
+
 
 def rebuild_cache(service, account_id):
     cache_file = os.path.join(account_dir(account_id), "cache.p")

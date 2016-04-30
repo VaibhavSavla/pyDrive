@@ -58,6 +58,6 @@ def get_service(credentials_folder, version='v3'):
         service
     """
     credentials = get_credentials(credentials_folder)
-    http = credentials.authorize(httplib2.Http())
+    http = credentials.authorize(httplib2.Http(cache=".cache"))
     service = discovery.build('drive', version, http=http)
     return service

@@ -9,6 +9,10 @@ def handle_ls(args, cache, mode):
     if '-m' in args:
         mime = True
         args.remove('-m')
+    display_id = False
+    if '-i' in args:
+        display_id = True
+        args.remove('-i')
     if len(args) > 1:
         ids = name_to_id(args[1], cache)
         if len(ids) != 0:
@@ -17,13 +21,15 @@ def handle_ls(args, cache, mode):
             return
     else:
         id = getcwd()
-    ls(id, cache, trashed, mime)
+    ls(id, cache, trashed, mime, display_id)
 
 
-def ls(id, cache, trashed, mime):
+def ls(id, cache, trashed, mime, display_id):
     for k, v in cache.directory_tree.items():
         file = cache.files[k]
         if id in v and file.trashed == trashed:
+            if display_id:
+                print(cache.files[k].id[0], end='\t')
             if mime:
                 print('{0:40s}'.format(cache.files[k].mime_type), end='\t')
             if cache.files[k].mime_type == 'application/vnd.google-apps.folder':
