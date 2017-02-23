@@ -1,0 +1,4527 @@
+status: 200
+cache-control: private, max-age=0, must-revalidate, no-transform
+content-length: 103382
+content-location: https://www.googleapis.com/drive/v3/files?alt=json&fields=files%28id%2CmimeType%2Cname%2Cparents%2Cshared%2Ctrashed%29%2C+nextPageToken&pageSize=1000
+server: GSE
+date: Mon, 13 Feb 2017 15:01:13 GMT
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="35,34"
+vary: Origin, X-Origin
+x-xss-protection: 1; mode=block
+content-type: application/json; charset=UTF-8
+expires: Mon, 13 Feb 2017 15:01:13 GMT
+x-content-type-options: nosniff
+-content-encoding: gzip
+
+{
+ "nextPageToken": "V1*3!10!1ChwwQjhOS2w2QkxzTzZ6YjJSb1kyNHhkSGRxYkVVEgcQmrbakewq|EAIapQELEgBSnAEKigEKXPj0CQj_____wxTrmpU3dkAA_wH__kNvc21vLnVzZXIoMDAwMDAwNzY4NTg0N2U1ZlUpLmRpcl9lbnRyeSg1MDkwNDYxOTM3NTlcLjdcLm9kaGNuMXR3amxFKQABEMwDIWYEgtLVxARYOQAAAAD39gsASAFQAFoLCagx3JUCzMuJEAJg24WW2QYgATIGCLeUh8UF8ISVfAEMQAAiCwmIWQPrMgAAACAG|eof",
+ "files": [
+  {
+   "id": "1KU8m01iSjyj-C1IX8Ldep-Z0MGKMNF4c4yaR10UX_CQ",
+   "name": "MastersDetails_BTech_IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1YyOtR9MuBZJxr431wkCb5Y-tbSUe1w0yTqlNvzZdGOw",
+   "name": "NBA_BTech_IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B5F6yMKYDUbrYXE4X1ZCUHpLNnc",
+   "name": "Cryptography and Network Security Forouzan - Copy.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B-G8YoCBwxPcZWlnem9kVW9mSDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "11BprZuLlP6bKXaNtmqs86IYFvzQ7ignxTyxzbwmSV8g",
+   "name": "Travel Details",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "1gtnYU2FbK_dQp2zB60S5VkQK2vs0njaC-YJzyYbJVWg",
+   "name": "Network Intrusion Part 2",
+   "mimeType": "application/vnd.google-apps.presentation",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "15cVO89-ZBThr0Y9kt1WvWWLsk005x-E6IW4dd9SZrGs",
+   "name": "Result table",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1XSTmcL0xVbdX4hCLEXt4194JUDw0CBrHPH3nTw9gQd0",
+   "name": "Data_Distribution_Documentation",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1LWmh8JBXLSYXac4ag3gmvjZHUJCLzWba2QpKrUwUrDk",
+   "name": "BTech_IT_Placement_Details",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1oncMKO8XiB2tZGcq9cJp7hiIoWwVJ3Czmaggf8a2ICk",
+   "name": "Network Intrusion Part 2 - Line chart 7",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCZTBxbHNWcFZQbDg",
+   "name": "Untitled Diagram.html",
+   "mimeType": "application/vnd.jgraph.mxfile.realtime",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "15lYPZaA11awJYORqEuu2vix3F6eQcm5N2j0oOWEql3k",
+   "name": "Network Intrusion Part 2 - Column chart 2",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeWnp2NWtaYkc4dUk",
+   "name": "test_data",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeSW94Y0VkVnlvbjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYea0RPdFN1dnJ1d28",
+   "name": "samples",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeSW94Y0VkVnlvbjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeRFZURmlVZWhiRE0",
+   "name": "labels",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeSW94Y0VkVnlvbjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeSW94Y0VkVnlvbjA",
+   "name": "NB 15",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeYjRzdUpDVmxwNVE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeRmJ5MFIyZlFmTzg",
+   "name": "test_data_unique",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeZXBsdjZ0VHVqU3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeTWtQRE5CajZxbkk",
+   "name": "test_data",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeZXBsdjZ0VHVqU3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeRlBqT2I2VnpoY00",
+   "name": "samples",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeZXBsdjZ0VHVqU3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYebGJCdU5sX3RWX3c",
+   "name": "labels",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeZXBsdjZ0VHVqU3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeZXBsdjZ0VHVqU3c",
+   "name": "KDD",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeYjRzdUpDVmxwNVE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeYjRzdUpDVmxwNVE",
+   "name": "Datasets",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1HG3lWMmlfO8VtAWQHO4ZPjrh864-d7-FZn6jpgODvAM",
+   "name": "131080003-SSL For Embedded Device",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCY1EwaFFabzR1c2M",
+   "name": "IMG_20170201_143823450.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCNlJRbVlPb1NjVDQ",
+   "name": "IMG_20170201_143825450.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCUllyM0xtUVVlNzg",
+   "name": "IMG_20170201_143027073.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCMk5pWGRsYVhGR0U",
+   "name": "IMG_20170201_143040830.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCS2VpWUVXMVNaTW8",
+   "name": "IMG_20170201_143744440.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCei1oQURRcEtYZkk",
+   "name": "IMG_20170201_143835972.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCN09wS2tFVEF1cGs",
+   "name": "IMG_20170201_143827590.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCNXVhdWpEa2pKbms",
+   "name": "IMG_20170201_143315038.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCSWRpRGNJcUdpa3c",
+   "name": "IMG_20170201_143028265.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCUWxIMzJQOU1RMEE",
+   "name": "IMG_20170201_143003027.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCd1VIdU9oTzBrdjg",
+   "name": "IMG_20170201_143743672.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCMFZWcHBRdUNGRzA",
+   "name": "IMG_20170201_143802408.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCZ2NrTHU1ajluOUU",
+   "name": "IMG_20170201_143010777.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCdmhMZkFmblh0YjQ",
+   "name": "IMG_20170201_144804942.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCTFpac0laaVhOR3c",
+   "name": "IMG_20170201_143821389.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCeFJwa0J2Vmt5ajg",
+   "name": "IMG_20170201_144023024_TOP.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCWVQtR1BDOHNtNGc",
+   "name": "IMG_20170201_144751396.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCNkNjekY2VTd5aW8",
+   "name": "IMG_20170201_143746676.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcXdDM0wxWVJlbVU",
+   "name": "IMG_20170201_144749609.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCd0ItOFd0ZDdSTVE",
+   "name": "IMG_20170201_144750591.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCdTViOE5uU0ZMMXc",
+   "name": "IMG_20170201_143751431.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcWtBcTNWSUp4b2c",
+   "name": "IMG_20170201_143742755.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCdERyd2tETDc4c2M",
+   "name": "IMG_20170201_144819334.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCekZ2bWpZVk1YSW8",
+   "name": "IMG_20170201_143829381.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCUFRGT2NXaW8zYWc",
+   "name": "IMG_20170201_144021954.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCNEw0dE9YSDdnLTA",
+   "name": "IMG_20170201_144026837.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCdlA4MEI0SEVuM3M",
+   "name": "IMG_20170201_144752215.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCdmZjczExU3Y1QkE",
+   "name": "IMG_20170201_144023467.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCR3BjeWlBT1JWWTg",
+   "name": "IMG_20170201_144816580.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCN1R2ZkVJbFNKbW8",
+   "name": "IMG_20170201_143039271.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVEFoUHN5c0ljNXM",
+   "name": "IMG_20170201_144808308.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCZ3VLMWNRMUNnd0E",
+   "name": "IMG_20170201_143316367.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCN2pYck9FVnBYbms",
+   "name": "IMG_20170201_144023024.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCSUxmY1JkZU1hYWc",
+   "name": "IMG_20170201_143802408_TOP.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcWtYUUpwWXl1Y0E",
+   "name": "IMG_20170201_143838650.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcmpVMjdYN2RQUVU",
+   "name": "IMG_20170201_143803286.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVXoya0dkTDJaX2M",
+   "name": "IMG_20170201_144800362.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcGp2dlFqekQ3UkU",
+   "name": "IMG_20170201_144758926.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCd1JVYW5zV3ZVRWc",
+   "name": "IMG_20170201_143759273.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVFhTUzhhY0JYTHc",
+   "name": "IMG_20170201_143019681.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCejlJVDlMOFctYk0",
+   "name": "IMG_20170201_143747687.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCSWdIcmY1azk0cUU",
+   "name": "IMG_20170201_143918593.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCOFZtNVhQTnFkSFU",
+   "name": "IMG_20170201_143801419.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCZ0dzMFFwV1FIZjg",
+   "name": "IMG_20170201_143752491.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCc2xqUzM1cTFVbmM",
+   "name": "IMG_20170201_144803708.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCczZ6S2tNbTd4WDQ",
+   "name": "IMG_20170201_144819334_TOP.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B7pHmA0_3jXRcE94V1Q0OGpaNjA",
+   "name": "TOEFL IBT 2010-2011 (with CD-ROM)_2.rar",
+   "mimeType": "application/x-rar",
+   "trashed": false,
+   "parents": [
+    "0B7pHmA0_3jXRZElpUnZSMFhhOVE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1xnunPg3OpJbrA76JrbUuwu_5RhfW5jzxQE0ocD70LGw",
+   "name": "BTech_IT_Student_Details",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoTGRuSXp2UkFPMlE",
+   "name": "BTech_IT_Resume",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzkLycb_83LfUloyanJvM3hDWDg",
+   "name": "Wifi_data_logger_141081969_141081974.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFRlRnY0dBWHFuejg",
+   "name": "  Automatic Room Light Controller with Bidirectional Visitor Counter-141080970,141080973,141080975.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCYWtfak1IQlFvaU0",
+   "name": "SemVIII Books",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCbkZETTZpWjdUczg",
+   "name": "TB04_soft-computing-ebook.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCYWtfak1IQlFvaU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCZlRYQXUtV3VpUzg",
+   "name": "Cryptography and Network Security Forouzan - Copy.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCYWtfak1IQlFvaU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCUldnZ25lRHVaM3c",
+   "name": "Jacek M. Zurada-Introduction to Artificial Neural Systems-West (1992).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCYWtfak1IQlFvaU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGTnRpaVRJNkZYd0k",
+   "name": "131081043_Two_Digit_Up_Down_Counter.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9Y0Q5N01NVEZNMW8",
+   "name": "Street_Light_that_glows_on_detecting_vehicle_movement_131081032_131081034.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2KuDObSvik0cjZXQVozeUE5VDg",
+   "name": "131081008_digital_voltmeter.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2DmJMvwOv_ud2ROWkxQNndGOXM",
+   "name": "131081049 - Electronic Voting Machine.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ZkHaseTWwQSEhLZWJUQTRMUEk",
+   "name": "131080058 Fitness and sensor monitoring app.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6AEf5AhXwcMdXFTYnlMQ0t2VE0",
+   "name": "EnergySaving - 131081037,131080050,131081062.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BydSOk3EGE00M1kzeGYydUlxRWs",
+   "name": "MazeSolver-131080017,131080019,131080051.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1Zs8_drVw7P1W9lPhIMiCoOe0bqC6s4gTKQBUuw2p5y8",
+   "name": "MazeSolver",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoaEhYV25zS25sR3c",
+   "name": "131080014_Digital_Temperature_Sensor.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "12yAVKRNBoI51Z8UWllMggvn8k164SIVk4TEu1LhTB60",
+   "name": "Embedded Systems Project",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCd3VwVEo0ZFpTaUE",
+   "name": "Jacek M. Zurada-Introduction to Artificial Neural Systems-West (1992).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeX3h4eXdvcDM5aW8",
+   "name": "131080011-Heartbeat Monitor.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoUFJDNG5DOHBwOGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVMG1qNVZPRGtBVnM",
+   "name": "rajbuyya (2).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B7pHmA0_3jXRNE5kTVVxRmh3UW8",
+   "name": "New-GRE-Books",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCQ3ctRHdEV0JIbEE",
+   "name": "131080019 - Text to Braille.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoUFJDNG5DOHBwOGM",
+   "name": "ES_BTech_IT",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1FA4FCaHMDic1ZqmnGrHQYigOcX08w90_G1Fi11NxJLs",
+   "name": "VJTI in US for MS",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1NfZ60mRhVYfLow2qGxVpeu-weRNjpFIZcy1n2w2wwRU",
+   "name": "VJTI AIC Workshop Timetable",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFcHZsYmRlSEdGeVU",
+   "name": "IMG_4883.MOV",
+   "mimeType": "video/quicktime",
+   "trashed": false,
+   "parents": [
+    "0B_6y0uuGXgBFaTQyaS1WbHdza3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFdmJ0NUhkUG1oVEU",
+   "name": "IMG_4880.MOV",
+   "mimeType": "video/quicktime",
+   "trashed": false,
+   "parents": [
+    "0B_6y0uuGXgBFaTQyaS1WbHdza3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFWmNjQlpIVEFUcnM",
+   "name": "IMG_4881.MOV",
+   "mimeType": "video/quicktime",
+   "trashed": false,
+   "parents": [
+    "0B_6y0uuGXgBFaTQyaS1WbHdza3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFaTQyaS1WbHdza3c",
+   "name": "IT  dance",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B8mTlXqhrh9tT0pSRnVFUTZkZ3c",
+   "name": "Techfest 2016",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITU5vQi1XVWRzQVU",
+   "name": "4. Lecture 3 VTJI AIC Workshop - Network Intrusion Detection using Scikit-Learn.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIT0d5NHZhYjRnMjg",
+   "name": "3. Lecture 3 VTJI AIC Workshop - Machine Learning models crash course.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIajVOTkMwWGltYU0",
+   "name": "2. Lecture 3 VTJI AIC Workshop - Python intro and dataset cleaning with Pandas (Healthcare data).mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbk5PcjN6Vkl6dms",
+   "name": "2. Lecture 3 VTJI AIC Workshop - Python intro and dataset cleaning with Pandas (Healthcare data).mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdVh0Y0tKeDREY0E",
+   "name": "1. Lecture 3 VTJI AIC Workshop - Announcement.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOUxyUjBORlNnQWs",
+   "name": "Lab assignment.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFNtclpWZ1BoaHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUFNtclpWZ1BoaHc",
+   "name": "Lecture 3 (Wednesday 14th December 2016)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIeXVSNkN6aU42SUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOWk1UWN5TUtTMUk",
+   "name": "8. Lecture 2 VTJI AIC Workshop - Linear Regression implementation pt.2.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUEJSY09SR2NWUHc",
+   "name": "7. Lecture 2 VTJI AIC Workshop - Linear Regression implementation pt.1.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINmNKNy05dW94NVE",
+   "name": "6. Lecture 2 VTJI AIC Workshop - Regularization, Cross Validation.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWHZCN3YyOGJXeVE",
+   "name": "5. Lecture 2 VTJI AIC Workshop - Bias-Variance pt.4, underfitting and overfitting.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIazFJQmZpUHN6Z0k",
+   "name": "4. Lecture 2 VTJI AIC Workshop - Bias-Variance pt.3.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRVhHQWFxRHZCaWM",
+   "name": "3. Lecture 2 VTJI AIC Workshop - Bias-Variance pt.2.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZILThRNlhCMWJNZXM",
+   "name": "2. Lecture 2 VTJI AIC Workshop - Bias-Variance (cut clip).mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWkI0aHpmYTZGT3M",
+   "name": "1. Lecture 2 VTJI AIC Workshop - Linear Regression and Bias-Variance.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIY1Y0a0ZuZkEtUUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITmRmNmt1MVJScVU",
+   "name": "4. Lecture 2 VTJI AIC Workshop - ML pipeline.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcUkzTzBSZU5UN3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcUkzTzBSZU5UN3c",
+   "name": "Lecture 1 (Monday 12th December 2016)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIeXVSNkN6aU42SUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIY1Y0a0ZuZkEtUUk",
+   "name": "Lecture 2 (Tuesday 13th December 2016)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIeXVSNkN6aU42SUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdXZNd0NKTXhhczg",
+   "name": "1. Lecture 1 VTJI AIC Workshop - Introduction to AI and ML.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcUkzTzBSZU5UN3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcnNRcFU5ZlpJZ1k",
+   "name": "2. Lecture 1 VTJI AIC Workshop - Octave intro.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcUkzTzBSZU5UN3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISkJwMW82R0lQYU0",
+   "name": "3. Lecture 1 VTJI AIC Workshop - NumPy intro.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcUkzTzBSZU5UN3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUzBaMXFWSlhrR28",
+   "name": "ML Workshop",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCdU5qQXpWcV9MdnM",
+   "name": "Linear_Regression",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCeGFNX1F6dl9SZWc",
+   "name": "y.txt",
+   "mimeType": "text/plain",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCdElOSXhLb2F0eGM",
+   "name": "gradientDescent.m",
+   "mimeType": "text/x-objcsrc",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCclFuZlJvNEFwY0k",
+   "name": "computeCost.m",
+   "mimeType": "text/x-objcsrc",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCa3pubWRKeTFNQ0U",
+   "name": "featureNormalize.m",
+   "mimeType": "text/x-objcsrc",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCYkY1NFhzRHhnUEk",
+   "name": "X.txt",
+   "mimeType": "text/plain",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCVGVXdFQ5ZGthZ1U",
+   "name": "plotData.m",
+   "mimeType": "text/x-objcsrc",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCVGh2bVZWT1VrcUU",
+   "name": ".DS_Store",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCdU5qQXpWcV9MdnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIeXVSNkN6aU42SUU",
+   "name": "Video Lectures",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUzBaMXFWSlhrR28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1FZ-GYeXBfhakQu5igVR0_B2Zqfk_QyY32oCZmLU8bHs",
+   "name": "Machine Learning Pipeline",
+   "mimeType": "application/vnd.google-apps.presentation",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1amw8PbIcJG9DLuwAJ6Tl-jM1z3sbg4immKPFgL-RiHI",
+   "name": "Types of Learning",
+   "mimeType": "application/vnd.google-apps.presentation",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1zjvhPxHXc86Gqrd9WuBpVZbdg5_r1QTQDVKhMtB9HqE",
+   "name": "VJTI AIC Workshop Registration",
+   "mimeType": "application/vnd.google-apps.form",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1HSNXJ2B1locWw9eyA7JJpWcKFkhWXkkJrYHQE4lWO8M",
+   "name": "Questionnaire for VJTI Artificial Intelligence Community",
+   "mimeType": "application/vnd.google-apps.form",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1sb8hC9TGnd5i4C28bEKRTofDKwkzOiG4WHo8PT9MS20",
+   "name": "btechit_12_04_2012_New-1",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "15ts2dmcijJ5eDU0E1TnyzCVXpT9m5bgdI4fwZu1iSsw",
+   "name": "Savla LOR",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1VVJ39TgnxZGiPTvCFizwkcNyW4UQDNNoTJFqVaE23S4",
+   "name": "IT_details",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1noqDJpheYcrVUn9u1qhzylVZ6hoOeU9kXSDguQNu_B0",
+   "name": "Elastic Run  - Formaat for Technical(Software) BTech IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1KoqbJOglPxDnB__wjNEBVpJkS_PjpEg9khzWq0pcDMo",
+   "name": "Papers for literature review",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfLS1pZGRpOE9SLXc",
+   "name": "Ip",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfQWo2bUhpMmM4ZWZCRlZOcGZPejdXd3NZQ1lZ",
+   "name": "Chapter04.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B5upW307PrpfLS1pZGRpOE9SLXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfUkRZSVpjLVNoTmZyWS1TblN0Q2M1bTdTUVZF",
+   "name": "Chapter05.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B5upW307PrpfLS1pZGRpOE9SLXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfSFN3UlJxVF81bW5xYVJJWm9aR3VZTDlTTEFv",
+   "name": "ch4_2.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B5upW307PrpfLS1pZGRpOE9SLXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfdlZ3T0RPekx0a082dnU3bGVfZnFkdmUxUHJN",
+   "name": "ch3.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B5upW307PrpfLS1pZGRpOE9SLXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307PrpfWkIySE1VeUl4M3hMSmx3MUFrbTNKWnVJTkZv",
+   "name": "ch2.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B5upW307PrpfLS1pZGRpOE9SLXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "15SIqwRgPQX476_jzcD40A0HUn1QhONzsDq5lb4621O4",
+   "name": "Elastic Run - Format for Ops and Product BTech IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B5upW307Prpfd1dPTVdtbV9Xb28",
+   "name": "Copy of Distributed Systems.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1_eqQL2hLtTXY6ePa_pIgTn6D9ipIiy4m7Ycb1amkGEM",
+   "name": "soa",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28",
+   "name": "GRE1",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0BycbTXvHDKS4dkJDRmFmVHM2Q2M",
+    "0B0YlrsC8KeEbMkZYMzEwekYtVDA",
+    "0B37jTPECnneEZ0doV2ZfNlhEMHM",
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HTFdsOXhITm44U1k",
+   "name": "DS ESE",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HQW5kY3NxckttVlE",
+   "name": "IST_2_Transaction.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HSlhLSXlSMjhwcDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HYl9EdmNsbXYtLVU",
+   "name": "IST_2_Time_Globalstate.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HSlhLSXlSMjhwcDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HS2NQa3lpTm1HbnM",
+   "name": "IST_2_OS.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HSlhLSXlSMjhwcDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3Hb2h4S2NqQ25HTjg",
+   "name": "W_Chapter_6.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HZGUwNUJCS016VjQ",
+   "name": "IST_2_DistributedTransaction.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HSlhLSXlSMjhwcDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HNFloeV94YTdRc2c",
+   "name": "IST_2_Cordination.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HSlhLSXlSMjhwcDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HZEFCRDdyWlFnaVU",
+   "name": "W_Chapter_5.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HYTl1dUNLUGlHRjg",
+   "name": "W_Chapter_4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HMXFzRy13QWlJd00",
+   "name": "W_Chapter_2.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HdEE2bmcyY09qMms",
+   "name": "L9-DFS.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HUWdyTlpvY2c5Ulk",
+   "name": "L10-Chap9NamingServices.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HTmw0SlI2VlE1dDA",
+   "name": "W_Chapter_1.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HWHdIQmRXMjhPcGs",
+   "name": "Chapter 1 slides.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HYl9Ua0JpNm9vMDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HYl9Ua0JpNm9vMDg",
+   "name": "IST1",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HTFdsOXhITm44U1k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HSlhLSXlSMjhwcDQ",
+   "name": "IST2",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B3HObZmwPp3HTFdsOXhITm44U1k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4YN3Ek_y0hxWC1mbEthVm1yRWs",
+   "name": "Janit_Anmol_Advik.zip",
+   "mimeType": "application/x-zip-compressed",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoRVUtc2x5MHdVU0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1FaZsRFukB3j5Cg3QaK1Nnlbvtaw-AfK7N_9Hu3fcMeM",
+   "name": "InteractiveBrokers_BTech_IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9-arakTq0WAcm90cmpWU3J6ZlU",
+   "name": "annalgo.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_6y0uuGXgBFZHBvZ29kanA1X2M",
+   "name": "141080973-vinayak rane.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_AdWV1UDNkTTFFdlE",
+   "name": "Readmission and Deaths-(Akshay,Chitrang,Keertan).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuocVZTeURtWGVLZ2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1hC730zGZd_iHHvVuY8LTOc6T3sNY-0qs35se1E8xHNA",
+   "name": "131081056_Shreeshaa.doc",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B0H1d_xteDjZSE9JN0dxQmZ3TDQ",
+   "name": "131080057_Jignesh_Thakkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5fdlInIO2zTWENvX1hxN21SN00",
+   "name": "131080028_Deepak_Chaudhari.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_JuFuGXEQWJcUU2dFBpMHJyNlU",
+   "name": "131081044_Mayui_Kachhawa(B.Tech-IT).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8iV6Hla_NkdSVpTTEMwWnF4T1U",
+   "name": "Manhattan 1-8",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B7pHmA0_3jXRMzFxdVpock01RnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2DmJMvwOv_uUXBRU201RDVNVkE",
+   "name": "Timely and Effective Care (Juhi, Chanchal, Rohan).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoV2ItQ3NsXzdJSUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-19RvpHz03Vdm9oTjNkOHlaYjQ",
+   "name": "131080001_Mahesh_Walde.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2DmJMvwOv_ucllzMzU3WjB5ZTA",
+   "name": "131081049_ChanchalKhemani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeYmVuSmVBQURoYkk",
+   "name": "131080011.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCOTU5bkR6XzhfQlU",
+   "name": "4ed.exe",
+   "mimeType": "application/x-msdownload",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B0I2_yA0tcmxZFo4UWVVUnlFUmc",
+   "name": "131080023_KetanVijaykar_IP.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1yCivmXj9nTLpl8sANZTmgiUjwHbJMnB05RGdtzLinbw",
+   "name": "Infosys&IBM_BTech_IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoWEl0TXNDaVh1MFBmTjlfNE5Gc0xJWmhyem1r",
+   "name": "141080975(NILESH BHOIR).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7pHmA0_3jXRMzFxdVpock01RnM",
+   "name": "Manhattan GRE 1-8",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B7pHmA0_3jXRNE5kTVVxRmh3UW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzkLycb_83LfNVJ4SlFTeFJoN2c",
+   "name": "141081974_Resume_RaniDeokate (1).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGU0E5U2pHQ0FCZzQ",
+   "name": "131081043_Bhagyaprabha_Kamble_IP.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGZ1ZoMEZXZFM5QjA",
+   "name": "131081042_Hardika_Chauhan_IP.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2KuDObSvik0azhnOGVRNkdGclE",
+   "name": "13108108-Rajeshreekalaskar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1cVzVIiI_U3dmVYVHU5UzcwZHM",
+   "name": "131081040_Ankitaa_Rattan.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeSkY4eFhrTmdmMzA",
+   "name": "HealthcareAssociatedInfections-Hospitals (1).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuocVZTeURtWGVLZ2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BydSOk3EGE00UURWUTI3b3hCYXc",
+   "name": "IP_131080017.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HSUE3Z1BreWE4OTg",
+   "name": "Patient Survey_group1.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuocVZTeURtWGVLZ2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8i23mA9pNZyT0RDRG1zY3J5a1U",
+   "name": "131080061_Vivek_Bhatt.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1_iaAuOm5UM1SH1VD3MF4LWjCv0GFbYgIDcTxhfGmATk",
+   "name": "K Means Clustering",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-uiTZcNZVj-OWoyQ3RpRUF6aG8",
+   "name": "Timely and effective care.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoaGNaRWFGTDgteEE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcVBxaE9WeXBCR3M",
+   "name": ".git",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQTZZTUFvMXJuQ0U",
+   "name": "FETCH_HEAD",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWE9ucWg2aFZKMWc",
+   "name": "index",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdnoxYlRYVUFzN0k",
+   "name": "master",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIWEZVTVZ3M1lPTEE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZ0FNaXlxSGtINDQ",
+   "name": "master",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZISzJ2amtCY0hRc00"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWEZVTVZ3M1lPTEE",
+   "name": "origin",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZINThDUnVBZlFXLUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISWRxeU81ZkR1N3M",
+   "name": "config",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbUVpN2lJU3NoZFk",
+   "name": "HEAD",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIYVFGZHl6TzdVVGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIYmc2dDVRdGhYNmc",
+   "name": "HEAD",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIeERMNDhjVTlUczA",
+   "name": "0071b9cc9ae4e77c4204cf1683c3c46cd20294",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIU0J6TDM3aEM1djQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdWl5SUZPYWM3M1k",
+   "name": "a4e7e434a21d5fa0ef94b6396768e262999bc8",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZITU5ycmdRUDgzNms"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdUk4R09LbndDNjg",
+   "name": "master",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIQ1Q3eUpvcWJBbDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdUNIOUZZWERIMlU",
+   "name": "01568546755bfbd2813f9e98818d04fb7e442e",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZXFBRkRHOVBjWm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdHlreXgxdEoxM2c",
+   "name": "9dea2301ca2eb56e366a26a6f05b5feeee1a28",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIMWFhT0w2d2R3cWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIckdlMmtXdkxMSG8",
+   "name": "8a718fac52a8a323e70a80a55d649a03bd9729",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIOWNjQWplem9COU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcHN3V1c4eVFVcGs",
+   "name": "094617d66b93d3d967214994d58d62dc4fc45e",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIa3dpdjlVOC0yOWM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbnRBSDBxOTJ3YkE",
+   "name": "4f7b1893a1da6463ea11613559c102770bccf4",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIbk1mOThUWE5jcW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbm9lc1RSMTRMZ0U",
+   "name": "4aa3d3249b4820924717cc4faa0e05c16628e7",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVEQ1alRPYV9uS0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbm44THV6QjJ1d00",
+   "name": "a56f34d857bdfc32bc9e27e0ffc2abb18579b3",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIandoOXM1MmZjYnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbloyU1MzdlU0WGM",
+   "name": "bd3aff55d6d0799d0cd5ea9d984906c6a960d9",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIRVJZTlZ6enAwTWM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbjhCUmZyZVg5Mm8",
+   "name": "7b3b0de9935f752283a8da5c29fbd7db6cc611",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIQzNGT1I5RWg5Wkk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbVFSTUlXNnMwcU0",
+   "name": "8cb55e67ac7c33d3e777e1a02ef390bf1bdc29",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZISGdmMzZPdG05cUE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZ2ZfRFg2NnA3M1U",
+   "name": "83ff758f08158360b09655f0f485d6175fa82b",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIT0NNa19EQ1JpVzQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZTJiMmVtcWdjY2s",
+   "name": "objects",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIYnlKWUctSDFycjA",
+   "name": "7ff3ac13ac475948995935deab5036b5557315",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIandoOXM1MmZjYnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIYnJXd2dISVJhdjQ",
+   "name": "4fc0651c48077bfbdc32f77fefcfec081cb500",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIaGg0Nm9mVzRhYXM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIXy11Qk5PUElFUnc",
+   "name": "ba1a0ecf9af91ebefb80ba3e835700f5f734f4",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIV1ZoRFZIcjJCeFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWk9HZlN5X1RCNWc",
+   "name": "50bd2a3a7baac8fdd59ba91d760022ab5e0b4e",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZId0dEWTFwY0Rrcjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWFNRV3JtamxVbG8",
+   "name": "heads",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdFdMRFBrT1ZaWGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVzlGMlFNMmhiVnc",
+   "name": "36",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVng4LWFOVk00azQ",
+   "name": "master",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUFpzNlNKTDJnVmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVm54cExfV2dsQUk",
+   "name": "6318dfec987cce24d977d2c189b32820f32032",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIaVl2c1hldm5TNTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVWpaSGYydVRZM3c",
+   "name": "49ec9b158cb7a26db9336979cf170181f9f0d5",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUG9pdTVOVHRHY0E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVUI1dW5TS2dLUm8",
+   "name": "d59482e8fa78ed858556fb37e18b84a127a883",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZmROalMxWnFraU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVHh4dzdncTVaODA",
+   "name": "afa7904be57d2cee557110e0fc4a139875517a",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVVlscnAxcTlYRnc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVGo3WEY3Nm1jaDQ",
+   "name": "9b618213e4cc8ea1ac238d7e452670ca86c192",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZITVZjRWlEYXlBUWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVGRPSlRCdTdrdlU",
+   "name": "af11a27d23a0b84784b7f4236f562b727a39ce",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUXVkMHBDZ3BDM1U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVDV3MmltOGhyTHc",
+   "name": "4841c05893119c3e3b06f984d9f9b7d9b80bd5",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIWlZqSnVPbVZrTnc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIU2tMMGJmWVduUEk",
+   "name": "d387f19c17c532c8e50fd0ec9ba7cac500395b",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIanFMTDJtRVJUb0E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUk92VWQxdVNVQ3M",
+   "name": "788cb3e87c4add5b93927f1d3d94af4f0cda40",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdjhkLXdNSzVmLWM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUTZ5NzNwdGtITGM",
+   "name": "6eff42bef991373b2d145f25479ce090b22195",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIeG5zSm9YVUVZaFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUFpzNlNKTDJnVmM",
+   "name": "heads",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdFdMRFBrT1ZaWGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIT3hVN0lJdmtfN00",
+   "name": "cf65e767339f72ded430766e19a165017dad60",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdzB0NDNrcGx3S3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIT3dMOTloTlR1QzQ",
+   "name": "65e1461aa56c6504e5d7e37c9b3d84ac7e89fa",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZINkwzbFJRTndFNUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIT2VYaTdpUll4OTg",
+   "name": "7efaf474cb2b5bd4686de75604e07a6ce40211",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIckRHRXBGd0xIaUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITnNwZHlXOW1FREk",
+   "name": "32be335f0accc591177f56bf497fea9bf7b621",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVzlGMlFNMmhiVnc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITEV0dXNOMUQ0b1U",
+   "name": "14d9b9171f69e92a2d604c37dc693c11496089",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIUVNmNkIyOEJ6ZTQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISGdmMzZPdG05cUE",
+   "name": "ac",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISDhCUTIxVS1RVkE",
+   "name": "cf65e767339f72ded430766e19a165017dad60",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdzB0NDNrcGx3S3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISDRnU3FHOUpicTg",
+   "name": "e453ea96c0265ed204e62a6aac6067edf878c0",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIWkxsZ3BmNUswTlU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRXJ2TURNYnE0QmM",
+   "name": "bc1fde5af4a1e25a31dca930d7f6ee7ef736a2",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdXZ3QU5iQ3hldUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRGs2NlFjb1dBdUk",
+   "name": "01568546755bfbd2813f9e98818d04fb7e442e",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZXFBRkRHOVBjWm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQ0poQzZ0aWdSWEU",
+   "name": "83ff758f08158360b09655f0f485d6175fa82b",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIT0NNa19EQ1JpVzQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQzdKOUhzLVh1ZkU",
+   "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIWk5zX1IyaEdPdVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQWkwNEI3Ukk5MVU",
+   "name": "0b7126c8013a587395d0ac61ccff132cf42ea7",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZId1VqSlAxUWlOQ1k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOGhwMmZvQ3R6Tkk",
+   "name": "3e435c241a8e4c24301e6e5f603d089b19cfa4",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVRKaFZqa0lHYjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOFVSQ29SdWFhWmM",
+   "name": "dd1f3bb7a19532a909e242dd98d93dc26122b0",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZVlxYmNKYjV3c3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINFhDSTBEaDRjM00",
+   "name": "094617d66b93d3d967214994d58d62dc4fc45e",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIa3dpdjlVOC0yOWM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINDJkR0tBaTY0RkU",
+   "name": "3ec08a460241fe7fc798631af19f59e6bf7ced",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdjB6U2lCdU8xdmc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIM3RNYTlMalkwU2M",
+   "name": "526984fff722eee3de616bfaaa0e37437a34d2",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZITWZpdmFDVGdBLUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCdk9zd0VrUnpTTUE",
+   "name": "Chapter3.tex",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYebUV0bG5tWFpUdVU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCbjVrdjVlZkJSWm8",
+   "name": "Chapter2.tex",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYebUV0bG5tWFpUdVU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCX3NXTnE2SkJIemM",
+   "name": "Bibliography.bib",
+   "mimeType": "text/x-bibtex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYed0VrVlRLX2V0eTA",
+   "name": "Thesis.aux",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYedVhNX2w4cnk2Nms",
+   "name": "Thesis.blg",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeazR5MnVlaXNSUW8",
+   "name": "AppendixA.tex",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeQmRKb2JTUnVyR1k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeaGMtbXlsNkk4ekU",
+   "name": "Thesis.tex",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeY2RMcFBjUFRiTEk",
+   "name": "Thesis.cls",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeUnU5bmtPalY3WTQ",
+   "name": "Thesis.toc",
+   "mimeType": "application/x-cdrdao-toc",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeREhqblNWbXR1OHc",
+   "name": "Chapter1.tex",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYebUV0bG5tWFpUdVU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeRC1OSWo2Z3ctLXc",
+   "name": "Thesis.lof",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeNnpKVlNKOUxDQ1k",
+   "name": "Thesis.lot",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeM1FiX25Yc0tZSGc",
+   "name": "Thesis.out",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeMTF2OWpOWEVNMTQ",
+   "name": "Thesis.bbl",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWUgxR0xfc09EbUU",
+   "name": "ORIG_HEAD",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISElEdzE4eWo0bW8",
+   "name": "LICENSE",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIeG5zSm9YVUVZaFE",
+   "name": "0a",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdFdMRFBrT1ZaWGM",
+   "name": "refs",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcmdiTmhHVWpjTzg",
+   "name": "63",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcXAtMXlNOGtySGs",
+   "name": "refs",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIYVFGZHl6TzdVVGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIaG5iNFRzcklzdlE",
+   "name": "53fa7d17e2550d7e989b2648e4431afd38ab25",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVE9hMWZsSkp1Rjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVE9hMWZsSkp1Rjg",
+   "name": "21",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITE9pNUcxMmZRWlk",
+   "name": "a695a307c8f00b679c37f81157bb4f26590f88",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIeG5zSm9YVUVZaFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISzJ2amtCY0hRc00",
+   "name": "origin",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIQllvQWp0MlZiOEE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQllvQWp0MlZiOEE",
+   "name": "remotes",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcXAtMXlNOGtySGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOXpsVWs2RkdCLXM",
+   "name": "ada3edaf50dbc082c9a125058f25def75e625a",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIOGpLTHdXWFJKYzQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOGpLTHdXWFJKYzQ",
+   "name": "8d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINThDUnVBZlFXLUk",
+   "name": "remotes",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdFdMRFBrT1ZaWGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMzVLbWdudUtybnM",
+   "name": "032a0d48e9fe17b4f09cfb9c0edf2ebb6ceeaf",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmdiTmhHVWpjTzg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbkJhUFRBN3BNMFU",
+   "name": "ae",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIa3dpdjlVOC0yOWM",
+   "name": "ae",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIaVl2c1hldm5TNTA",
+   "name": "b6",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZFdyQ2JRS2RoZTQ",
+   "name": "ab",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIYVFGZHl6TzdVVGM",
+   "name": "logs",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWl8xMDVkV3hnNkU",
+   "name": "b9db41b784b3c3ba82af6a7ef29cd8f732146c",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIMm5PajB2TXp3MFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITGJzQUkwRWw0ZDg",
+   "name": "COMMIT_EDITMSG",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQ1Q3eUpvcWJBbDQ",
+   "name": "heads",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcXAtMXlNOGtySGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMm5PajB2TXp3MFE",
+   "name": "db",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZILUM1VDJRbkpWTWs",
+   "name": "f40d81b68d5e7866d69dc23c8e942652599e86",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZFdyQ2JRS2RoZTQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIandoOXM1MmZjYnM",
+   "name": "ad",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdjhkLXdNSzVmLWM",
+   "name": "56",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVVlscnAxcTlYRnc",
+   "name": "27",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIU0J6TDM3aEM1djQ",
+   "name": "c6",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUXVkMHBDZ3BDM1U",
+   "name": "ec",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQzNGT1I5RWg5Wkk",
+   "name": "20",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINkwzbFJRTndFNUU",
+   "name": "1b",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZId1VqSlAxUWlOQ1k",
+   "name": "96",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZId0dEWTFwY0Rrcjg",
+   "name": "d3",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdzB0NDNrcGx3S3c",
+   "name": "cf",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdjB6U2lCdU8xdmc",
+   "name": "e5",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIckRHRXBGd0xIaUU",
+   "name": "3d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcVRKaFZqa0lHYjA",
+   "name": "3b",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbk1mOThUWE5jcW8",
+   "name": "d1",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIanFMTDJtRVJUb0E",
+   "name": "0d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIaGg0Nm9mVzRhYXM",
+   "name": "d2",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZmROalMxWnFraU0",
+   "name": "d8",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZXFBRkRHOVBjWm8",
+   "name": "7d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZVlxYmNKYjV3c3M",
+   "name": "cd",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWlZqSnVPbVZrTnc",
+   "name": "32",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWk5zX1IyaEdPdVk",
+   "name": "e6",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWkxsZ3BmNUswTlU",
+   "name": "29",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWVBPMkpFLW1LSHc",
+   "name": "7d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIV1ZoRFZIcjJCeFE",
+   "name": "4f",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVEQ1alRPYV9uS0U",
+   "name": "2d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUVNmNkIyOEJ6ZTQ",
+   "name": "e9",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIUG9pdTVOVHRHY0E",
+   "name": "76",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIT0NNa19EQ1JpVzQ",
+   "name": "f5",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITWZpdmFDVGdBLUk",
+   "name": "22",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITVZjRWlEYXlBUWc",
+   "name": "c9",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITU5ycmdRUDgzNms",
+   "name": "39",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRVJZTlZ6enAwTWM",
+   "name": "7b",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOWNjQWplem9COU0",
+   "name": "61",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMWFhT0w2d2R3cWs",
+   "name": "30",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdXZ3QU5iQ3hldUU",
+   "name": "4d",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcmJNazNIaURVUDg",
+   "name": "hooks",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIX2lqRERFVXRtYXM",
+   "name": "update.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWE9OVk52Z181WWs",
+   "name": "info",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZITUhIX3ZwRk9PakE",
+   "name": "exclude",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIWE9OVk52Z181WWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINE0tdF9kLWRnWVU",
+   "name": "pack",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMmx0WlMzbGhhNUE",
+   "name": "info",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIZTJiMmVtcWdjY2s"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdzlfNnZwR2tVMlk",
+   "name": "commit-msg.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIcjREWlNQV2l5N2s",
+   "name": "pre-rebase.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIbDVZdW5IYS1femc",
+   "name": "description",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcVBxaE9WeXBCR3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIa0JLVHluZGtvYnM",
+   "name": "pre-push.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIaWxYNHJ2VENUeFE",
+   "name": "pre-applypatch.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIZ2hiQzVZaVVrYVU",
+   "name": "pre-commit.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIWEpBbUFXZzU0WUU",
+   "name": "prepare-commit-msg.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRkpSWWtlV1BSNzQ",
+   "name": "post-update.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRW1NT2N6cjR4RkE",
+   "name": "tags",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdFdMRFBrT1ZaWGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZINm85N29RLXFUcWs",
+   "name": "applypatch-msg.sample",
+   "mimeType": "application/x-shellscript",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIcmJNazNIaURVUDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B--ALHyq2BPTMVdTSjQyZmZlRGc",
+   "name": "131080006_Sanket_Kasar_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxSKMDUyexw6VUQzd3phbHVHalk",
+   "name": "131080026_Omkar_Mate.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2KuDObSvik0aUNzYnBLUk5MdEU",
+   "name": "131081008_Resume_Rajeshree_Kalaskar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0ByBrHmFlIR11LWw4eWkzZm93N3M",
+   "name": "141081976_DipaliSonawane (1).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4-u_KvA2MsOVlduTnprQ2VBMjA",
+   "name": "131081039_Devanshi.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4-u_KvA2MsOeTQ1OEpNbEwwN28",
+   "name": "131080015_Neel_Kapadia.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ymxvj-Ba09Wk54ek12bVFob1k",
+   "name": "131080002_AkshayKhairkar_IP.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bw0Tt-pavuokcTA1Q05JS1BXWkU",
+   "name": "131030037_AnuragSarda.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6eITdFqlTFEbEQzRWk2RWstcjQ",
+   "name": "131080010_Prashil.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5fdlInIO2zTMlpGTm4tVTVzS2M",
+   "name": "131080028_Deepak.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_Gimyq6CelPU1BrWU5TYlNfazQ",
+   "name": "131080016_mikinshah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxJ7YJJmyvoXMXZWQzEzQ201SWc",
+   "name": "131081041_Disha_Jain.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8XxEezhUpEHTlFMRDZyVkhVVms",
+   "name": "JAY_131080050.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RYsybiN6ZcelRUSlFJMjg3NUU",
+   "name": "131081062juhi.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwcjkX1Pf77ZT25TRjV1dy1TVDQ",
+   "name": "131081031_Darshana Nachan (2).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By9Aya1HRr6ZeTV5VUExRnBWdFk",
+   "name": "131081036_Sakshi_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCXzdESGJUeG5iY1E",
+   "name": "Timely and Effective Care Hospital.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuocVZTeURtWGVLZ2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcZ2FJMkNPcHpZams",
+   "name": "131081060_Gayatri_Mavani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdzBhcUxHY2RWMUk",
+   "name": "131080051 - Abhishek Divekar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCMGFfRzJFTHBENXM",
+   "name": "dm.pages",
+   "mimeType": "application/x-iwork-pages-sffpages",
+   "trashed": false,
+   "parents": [
+    "0BydSOk3EGE00YWZrS3BlWHVqVHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoLVZDRnhOZ3MtZ0FhSDZTc3NYMUZXVXpSajB3",
+   "name": "IP_131080014.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4YN3Ek_y0hxWUZuWFlQb0RJTms",
+   "name": "131080055_Janit_Mehta.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzui1FtXJ2YJWTZWVXZLWTc3NkE",
+   "name": "poojapatil141081967.odg",
+   "mimeType": "application/vnd.oasis.opendocument.graphics",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxCq8VqFQ0NPcVBueDVYVmJ3TDg",
+   "name": "rushnakhan141081972.odg",
+   "mimeType": "application/vnd.oasis.opendocument.graphics",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ZkHaseTWwQbVM5bnF4T2dONnM",
+   "name": "131080058_Harshad_Naik.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7QeUO6a9srIUGxBOTVPNDVJUXc",
+   "name": "131080048_Sahaj_Gandhi.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwdZ-AjADxSxVVFSWUZGUnBtUVE",
+   "name": "131090053_Rohan_Purswani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0dWpiNzJZdzMwT0U",
+   "name": "141080970_Prathamesh_Sanap.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0OGQ1OWt4eGIyOEE",
+   "name": "131080045_Sagar_Sable.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0dHBMZ1kzVHJ1WWM",
+   "name": "141080975_Nilesh_Bhoir.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5MKBDfbZ4ZILUxQQjVlUVI0YzQ",
+   "name": "Abhishek Errol Jay - Timely & Effective Healthcare.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoRVUtc2x5MHdVU0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6AEf5AhXwcMVUpBTldBWFh1U28",
+   "name": "131081037_Krapi_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-uiTZcNZVj-bmNyamNfR3c4dEk",
+   "name": "131080059_Rohan_Sewaney.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B24w7R5mEkSAZUVRQnBzOXVzUlU",
+   "name": "131080012_Chitrang_Shah.pdf",
+   "mimeType": "application/kswps",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_JuFuGXEQWJcUszVGtFLW44cHM",
+   "name": "131081044_Mayuri_Kachhawa.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B--ALHyq2BPTRDdRNEFMNzg5MnM",
+   "name": "IP 131080006.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HWEx5VnlxSHZEWkU",
+   "name": "131080003_Image_Processing.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7_eEI4dLVHkRXUtOHVZVG04X00",
+   "name": "Shivanee Shinde131081007.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6j36bm1edQmQVlMY2Qxd29Jbjg",
+   "name": "131080053_advik_shetty.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVFhIRVF5Y0xraTQ",
+   "name": "Summary of papers - Divekar.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCTWt3dEFvQzR1dDQ",
+   "name": "Thesis.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIazktb3IzXzZHUVk",
+   "name": "Summary of papers - Divekar.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwxCJsw6Y4kqYmlQcWZmTXNheGs",
+   "name": "131081056_Shreeshaa.doc",
+   "mimeType": "application/msword",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVNEtSSUhwamNiMDg",
+   "name": "141081971_IP_Vidya_Chintamani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCd2NoU1lNSFBsZzg",
+   "name": "IP_131080019.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_ATHAtejdLWDVjVkE",
+   "name": "131080018_Keertan_Pius.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoc3h0bkNUakFkQk0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9MFlpdE9VNkMzMFU",
+   "name": "131081034_Priya_Masne.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzkLycb_83LfdXVVajFfRGc0bzA",
+   "name": "141081974_RaniDeokate (1).PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzlApGkEB34wbHFxOEQ0YndwdXM",
+   "name": "Vidhit-Utsav-Jeet-DM.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoRVUtc2x5MHdVU0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzkLycb_83LfSmpLSXhxcEVTSjg",
+   "name": "141081969_Priya_Vaity_(2).PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOG9lemxSMnlrdFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307Prpfb2t3T2hLd3JQQUU",
+   "name": "131080022_Jeet_Wagle.docx.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzkLycb_83LfaUp5czdUZUZ1SDQ",
+   "name": "Readmissions_and_Deaths.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoV2ItQ3NsXzdJSUk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzlApGkEB34wcmxwS2c2QkJEYm8",
+   "name": "131080021_Utsav_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8MnqxyK24K4Umh5ZGpyMmVtZVk",
+   "name": "131080063_Karan_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B37bSai-Otq5WGlvRTE0TW80R3c",
+   "name": "131080054_Anmol_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoOFNrei0wN0hfMGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6VItUKM0rjWSWdFLWJhTEhPZjg",
+   "name": "Tejasvi Baviskar -131081033-.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B53d51wPfvYgd1ZaM0ZwcWNZdmc",
+   "name": "131081032_VISHAKHAMUNDHE_IPLAB.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6VItUKM0rjWcnh1S0tiWHZTQjQ",
+   "name": "Reeadmissions and death - (Vishakha, Tejasvi, Priya).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoaGNaRWFGTDgteEE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIb0VrWllKbUpQQVE",
+   "name": "Anomaly Pattern Detection in Categorical Datasets kdd08.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoWnFCMS1zV0JmWHc",
+   "name": "DM&IP_Lab",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoOG9lemxSMnlrdFE",
+   "name": "BatchD",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoU09zTWpVOGFMUTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoSDlyYzBDQ0RwWkU",
+   "name": "BatchC",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoU09zTWpVOGFMUTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoOFNrei0wN0hfMGM",
+   "name": "BatchB",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoU09zTWpVOGFMUTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoc3h0bkNUakFkQk0",
+   "name": "BatchA",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoU09zTWpVOGFMUTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoV2ItQ3NsXzdJSUk",
+   "name": "BatchD",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoXzAtcmpwUHl3Z28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoaGNaRWFGTDgteEE",
+   "name": "BatchC",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoXzAtcmpwUHl3Z28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoRVUtc2x5MHdVU0U",
+   "name": "BatchB",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoXzAtcmpwUHl3Z28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuocVZTeURtWGVLZ2c",
+   "name": "BatchA",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoXzAtcmpwUHl3Z28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoU09zTWpVOGFMUTA",
+   "name": "IP",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoWnFCMS1zV0JmWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoXzAtcmpwUHl3Z28",
+   "name": "DM",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoWnFCMS1zV0JmWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeakwybkhwei1paDQ",
+   "name": "Thesis.log",
+   "mimeType": "text/plain",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIQk9DS0hIclJQZEE",
+   "name": "Thesis.synctex.gz(busy)",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIYzhBWVd5UzNXaE0",
+   "name": "Classification_and_Regression_by_RandomForest.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIRWZIajVNNkt1U3c",
+   "name": "Anomaly Detection Enhanced Classification in Computer Intrusion Detection.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMnRyZWo0WEpqN0k",
+   "name": "Outside the Closed World. On Using Machine Learning For Network Intrusion Detection oakland10-ml.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIOHBxdGx6dGVZbU0",
+   "name": "Network intrusion detection system based on machine learning algorithms 1210ijcsit13.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoWUxaakFKQlcycW8",
+   "name": "Placements upto 2016",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCUXFobXRiMG52RzQ",
+   "name": "Thesis.pdf",
+   "mimeType": "application/pdf",
+   "trashed": true,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeR3FPMVlFUFZON2c",
+   "name": "Chapter3.log",
+   "mimeType": "text/x-log",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYebUV0bG5tWFpUdVU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYecXpiM3RfR2phVnc",
+   "name": "vector.sty",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYecDNrRmFIajlXZTQ",
+   "name": "Thesis.dvi",
+   "mimeType": "application/x-dvi",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYedlZIQjRXV2d5dDQ",
+   "name": "Thesis.synctex.gz",
+   "mimeType": "application/gzip",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeNFduWmU2QXZ4LUU",
+   "name": "lstpatch.sty",
+   "mimeType": "text/x-tex",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYebUV0bG5tWFpUdVU",
+   "name": "Chapters",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeQmRKb2JTUnVyR1k",
+   "name": "Appendices",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0Bzy-96sjjWYeM0o0enJKd3NzcEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYeM0o0enJKd3NzcEk",
+   "name": "graduate-thesis",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZISjRoX1VBZU5uNlE",
+   "name": "Neural Networks and the bias-variance dilemma geman1992.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIdG5PTmNEcHhVcVk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIdG5PTmNEcHhVcVk",
+   "name": "papers",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1_lnPqnlO8OlbRxSA0CixEPHawAIwX4Uva1T39Q8EyBM",
+   "name": "Naive Bayes",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1__90EOrNAPB-NboRbQi1MYsAKUZN1fM6-_f3uPghuQI",
+   "name": "Artificial Neural Networks",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1uVntCwQFGm7SKn_ISG8FVNDsHQzQod8bcMzOVPePni8",
+   "name": "Summary of papers - meet",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "16ghJEjf_T7TDTOg2WlelnG1SYCsHng6V-1rxdo78YL8",
+   "name": "Lossless image compression benchmarks",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGMmE2dm54SThiSjA",
+   "name": "131081043_Resume_Bhagyaprabha_Kamble.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3HObZmwPp3HTnZFRzVnN2ZTMk0",
+   "name": "131080003_Dhananjay_Nagargoje_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIVFJmSW9FSFFPRW8",
+   "name": "Final Year Project",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1c8luGSbK9YE4E9duu6f8cQb-n58Rx4e_2uizNyYZQZ8",
+   "name": "Objectives from Shirole",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6imnTliNsZIVFJmSW9FSFFPRW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5uIbKUaio29TG5LajhfX0RrXzQ",
+   "name": "._Magoosh GRE - Consecutive Integers.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0B5uIbKUaio29MkdGMkRETzB0STQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5uIbKUaio29QldjLTd6YjBmU1E",
+   "name": ".DS_Store",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B5uIbKUaio29U1hXdDZuSUEwQ00"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMa2dMcEZoWDV6MFk",
+   "name": "131080004_Mahesh_Jagtap_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B0z1V-RAPGVkT2MyTXlwdE9XWXc",
+   "name": "TB04_soft-computing-ebook.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVQ3RwU1JjNUJsc0E",
+   "name": "141081971_Resume_Vidya_Chintamani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7pHmA0_3jXRaGJEdzlVTTlzc2c",
+   "name": "1014 Practise Questions For The New GRE - The Princeton Review.epub",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0B7pHmA0_3jXRNE5kTVVxRmh3UW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1UGQX8oT41EQE1NRQdyPpsewRdd90N9iHeUZl0O6GR6M",
+   "name": "Barron's gre 19th edition.pdf",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6VItUKM0rjWWEJTbFJubmNheXc",
+   "name": "Digital_Image_Processing_3rdEd_truncated.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9RUV4Wnd5TnpQazg",
+   "name": "[1] Data Mining - Concepts and Techniques (3rd Ed).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B58NW0XBak-9ajE5TjJPYWFHNUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcUHVBeWE3LVNueTA",
+   "name": "soa.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6RkiWGXMhbcRDdKajdqdlZFY1E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcY2RCY2hXbm1YM3M",
+   "name": "soa_security.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6RkiWGXMhbcRDdKajdqdlZFY1E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcVWZ6eTB5a29TUWs",
+   "name": "applied_soa.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6RkiWGXMhbcRDdKajdqdlZFY1E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcRDdKajdqdlZFY1E",
+   "name": "SOA",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6RkiWGXMhbcYzJxOVByZWtYMWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6RkiWGXMhbcYzJxOVByZWtYMWs",
+   "name": "SOA.zip (Unzipped Files)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoX0t2VmNyN0xYbmJiVjBiQnhWTWdGaXoySGFr",
+   "name": "131080010_Prashil_Bhimani_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2y_1ifBhEEXV25wMzRoemppRHc",
+   "name": "141080970_Prathamesh_Sanap.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoNWtMNWsyMFJER29sSUxzMGVXX2VSWTA1ZUg0",
+   "name": "131080046_bhavesh_deore.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8NKl6BLsO6zb2RoY24xdHdqbEU",
+   "name": "131080029 Resume_Swapnil_Jadhav.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  }
+ ]
+}

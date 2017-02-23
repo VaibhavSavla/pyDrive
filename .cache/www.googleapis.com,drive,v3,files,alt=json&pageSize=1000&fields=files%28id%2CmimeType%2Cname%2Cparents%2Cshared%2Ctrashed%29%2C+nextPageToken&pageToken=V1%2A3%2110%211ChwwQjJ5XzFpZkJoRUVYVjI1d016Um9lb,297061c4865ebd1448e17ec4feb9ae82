@@ -1,0 +1,4560 @@
+status: 200
+server: GSE
+alt-svc: quic=":443"; ma=2592000; v="35,34"
+x-xss-protection: 1; mode=block
+-content-encoding: gzip
+content-length: 107403
+content-location: https://www.googleapis.com/drive/v3/files?alt=json&pageSize=1000&fields=files%28id%2CmimeType%2Cname%2Cparents%2Cshared%2Ctrashed%29%2C+nextPageToken&pageToken=V1%2A3%2110%211ChwwQjJ5XzFpZkJoRUVYVjI1d016Um9lbXBwUkhjEgcQvdKPlewq%7CEAIaowELEgBSmgEKiAEKW_j0CQr_____wxTroUEcWSAA_wH__kNvc21vLnVzZXIoMDAwMDAwMGE4NmFiZjI2MVUpLmRpcl9lbnRyeSg0NTIwOTA4ODYwOVwuN1wuV25wMzRoemppRHcpAAEQzAMhZgSC0tXEBFg5AAAAAPX2CwBIAVAAWgsJqDHclQLMy4kQAmCOmf0mIAEyBgieu5nFBfCElXwBDEAAIgsJiFkD6zIAAAAgBg%7Ceof
+vary: Origin, X-Origin
+content-type: application/json; charset=UTF-8
+date: Fri, 17 Feb 2017 02:19:16 GMT
+expires: Fri, 17 Feb 2017 02:19:16 GMT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+cache-control: private, max-age=0, must-revalidate, no-transform
+
+{
+ "nextPageToken": "V1*3!10!1ChwwQnhzeFFLRVBtUk1NVkVSb1VuaGxSM015UVhjEgcQnrGJ5Koq|EAIapQELEgBSnAEKigEKXPjz9f______wxSrx3SopMAA_wH__kNvc21vLnVzZXIoMDAwMDAwN2U0YzY3MjY4NlUpLmRpcl9lbnRyeSg1NDI0NDc3MDc3ODJcLjdcLlREaFJ4ZUdzMkF3KQABEJkHIWYEgtLVxARYOQAAAAAACgwASLYBUABaCwmoMdyVAszLiRACYI6Z_SYgATIGCJ67mcUF8ISVfAEMQAAiCwmIWQPrMgAAACAG|eof",
+ "files": [
+  {
+   "id": "0B9W1MkDH_tuoNWtMNWsyMFJER29sSUxzMGVXX2VSWTA1ZUg0",
+   "name": "131080046_bhavesh_deore.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8NKl6BLsO6zb2RoY24xdHdqbEU",
+   "name": "131080029 Resume_Swapnil_Jadhav.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoXzdEOWpJOHYxWGVqWUxZUk1mMkZPdlJiQTlN",
+   "name": "131080017_MeetParekh.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuock1VbEdoalFGcEdYbEFjZEIzX1EzS2pJeVNF",
+   "name": "131080052_Errol_Fernandes_resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B0I2_yA0tcmxdlQ3V0dveUJVREk",
+   "name": "131080023_KetanVijaykar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwxCJsw6Y4kqUEtyOGZxb2YybVE",
+   "name": "131081056_CV_Shreeshaa_Kulkarni_VJTI.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoM3JrcWI1aTVyaGFueWhJa3BlRGJOTnVqWlFn",
+   "name": "131080020_VidhitNareshPatni.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzlApGkEB34wMEZ2NHVCMXo1UkU",
+   "name": "131080021_UtsavShah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwcjkX1Pf77ZWC1ZbDVNRmNpcms",
+   "name": "131081031_Darshana Nachan.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1nt5bYAAS5sTVF6tpLaFLDHQzo5BNkcr4b507fg3ZPwM",
+   "name": "video descriptions",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B37bSai-Otq5X2daQ1FvU01qTHM",
+   "name": "131080054_AnmolShah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxSKMDUyexw6am12Nmw5alF5TkU",
+   "name": "131080026_Resume_Omkar_Mate.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_ATFJTb2t1cEhLSG8",
+   "name": "131080018_Resume_KeertanPius.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVRmNLSVJYXzE1SzQ",
+   "name": "[1] Data Mining - Concepts and Techniques (3rd Ed).pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0By_otDcEkrpVbnkybllfeWo3R3c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVbnkybllfeWo3R3c",
+   "name": "Data Mining",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0By_otDcEkrpVeG9oeHUyWDc4eHM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0By_otDcEkrpVeG9oeHUyWDc4eHM",
+   "name": "Data Mining.zip (Unzipped Files)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2T4tJ2sR7-1N3RVOTNucXRfSm8",
+   "name": "131080025_KRUNAL_GAIKWAD.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGcVMtb2RQdzRMMTg",
+   "name": "131081043_Resume_Bhagyaprabha_Kamble.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9ajE5TjJPYWFHNUU",
+   "name": "Data Mining",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B58NW0XBak-9Z3dRcUMtUU5BT3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9Z3dRcUMtUU5BT3M",
+   "name": "Data Mining.zip (Unzipped Files)",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuodGhUZWtLNDlQbFpISGlwajJoMGNMS0ZRT3Jv",
+   "name": "131081030_Namrata-Panchal-Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoakpQdkN5S3dtMlE2Zno0bXY2alRiRS1YUE9N",
+   "name": "131081049_Resume_ChanchalKhemani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_ASmsxM0dSMUt1SG8",
+   "name": "Books",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_AN1QwSTUyZ2o3eVU",
+   "name": "SOA.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_ALVNfeVo0M0s4SVk",
+   "name": "Distributed Systems.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_AU1JPRkwwNndKNG8",
+   "name": "Parallel Computing.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6O8c5tKzS_AbkNhUjkyaXJZZTA",
+   "name": "Image Processing.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0B6O8c5tKzS_ASmsxM0dSMUt1SG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoaXJtd3FEZHY2TGtHekdaS0RILW84LTdQblFn",
+   "name": "131080045_Sagar_Sable.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B58NW0XBak-9cG04dUtIZmhUSTg",
+   "name": "131081034_Priya Masne.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1HV_hJMHo0-1bi8mfhIOzQelOhlrvuVFJ0b0beBnamKA",
+   "name": "Deloitte_BTech_IT",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoSmJrbDh5UXBUZUQwY1d6cDRfTkhKS21Ham1Z",
+   "name": "131080024_KiranDange.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoVG1GZ1Vjd3pFU0E",
+   "name": "131081042_Resume_HardikaChauhan.pdf",
+   "mimeType": "application/x-unknown",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoT014LW9pV1RnOWw0M09PTXNsX05NQXY1bGdN",
+   "name": "131081041_DishaJain_Resume.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoU2xmaGZQY3NOZHNUYlJsZHJfRzQxMUFJMWdn",
+   "name": "141080973-vinayak_rane.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1pqloKahQzDxHtVw0JgKt-j_0OXXwIbgxsMeZNetKcW0",
+   "name": "Image assets",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoUU0xdloyUWlwYzAwNnlpX0Z0NUsxd2t0ZjZz",
+   "name": "131080053_Advik_Shetty.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4YN3Ek_y0hxUUZhR2NPWmw3TkU",
+   "name": "131080055_Resume_Janit_Mehta.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0ZllzSy1oaFpmams",
+   "name": "IMG_20160815_110935.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0MFl3aTJ0eURmUHc",
+   "name": "IMG_20160815_110956.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0RGNObmxHTDNYTzg",
+   "name": "IMG_20160815_111000.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0czlibklVQUVtMjQ",
+   "name": "IMG_20160815_111002.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0bXZSNEhScklQSGc",
+   "name": "IMG_20160815_111003.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0enhyOGxuV1g0LXc",
+   "name": "IMG_20160815_111013.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0cUFKU09HcmhGRkU",
+   "name": "IMG_20160815_111014.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0ZVQ0YjVrRTN4Mzg",
+   "name": "IMG_20160815_111017.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0Vk9mck5vTkZxRDQ",
+   "name": "IMG_20160815_112720.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0MS13SWdUN1JXX1k",
+   "name": "IMG_20160815_112723.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0d2tiUjlSZk80RW8",
+   "name": "IMG_20160815_112811.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0b3k0WHlMNkFzV1U",
+   "name": "IMG_20160815_112816.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0cTdaRE9Ba1lwbEk",
+   "name": "IMG_20160815_112911.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0Nkk3UFpGd2dGdFU",
+   "name": "IMG_20160815_112906.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0bFAzdFpSNVotODQ",
+   "name": "IMG_20160815_112942.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0U1VpUjkzWlpBcUk",
+   "name": "IMG_20160815_112919.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0cmc4WDU4LVZpWW8",
+   "name": "IMG_20160815_112943.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0TDI1OHJwMXp2aDA",
+   "name": "IMG_20160815_112921.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0Z1FLcldnR1p2Zjg",
+   "name": "IMG_20160815_112947.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0MkFaeFgwRVliT0k",
+   "name": "IMG_20160815_113008.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0bFFaejQ5Nlp1M2c",
+   "name": "IMG_20160815_113703.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0YWs0cHViZ3ZjVzQ",
+   "name": "IMG_20160815_113656.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0V1A4WWRiOVNtb28",
+   "name": "IMG_20160815_125112.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0eThBNFY5ZW1weGM",
+   "name": "IMG_20160815_113705.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0bGdVeFgwazdJWHc",
+   "name": "IMG_20160815_125111.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0YVhqS3VTc1h0YlE",
+   "name": "IMG_20160815_125110.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0ejYtVGdIdG1DamM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0ejYtVGdIdG1DamM",
+   "name": "Independence day...",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0RWt1Y3JYTldDMU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoMERFVm9haGN0TU9QTkVvWG4wZXZ0cDZoOUNJ",
+   "name": "131080061_vivekbhatt.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6imnTliNsZIMVFhRzdfZlNTbDA",
+   "name": "131080051_Abhishek_Rajan_Divekar_resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7_eEI4dLVHkM2lXQmstbHZIb2s",
+   "name": "131081007_Resume_ShivaneeShinde.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoTmt3TVhCWWNaNEk0cnhMMXVWYmFzbzJScjgw",
+   "name": "131081033_TejasviBaviskar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0ByBrHmFlIR11bVpoeDZBbHpiNlE",
+   "name": "141081976_Dipali_Sonawane.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_jJMEXxWWWpVThTai1oWkdLZGM",
+   "name": "141081969_Resume_Priya_vaitY.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1pa7yrAZNHUZOfVs7mz9huqAkG8DPkFFEsLKgkIp82iA",
+   "name": "BTech Project Preference",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkUVA5Q3M4UV82Vlk",
+   "name": "student programs",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkR1FnSTU1eXA4X3M",
+   "name": "batchD",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B-ynCigH6uqkUVA5Q3M4UV82Vlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkZ1czbWJOdHllQU0",
+   "name": "batchC",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B-ynCigH6uqkUVA5Q3M4UV82Vlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkcXgxSDRod1c2LVE",
+   "name": "batchB",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B-ynCigH6uqkUVA5Q3M4UV82Vlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkUWpHdlZGSUhVeEU",
+   "name": "batchA",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B-ynCigH6uqkUVA5Q3M4UV82Vlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-ynCigH6uqkcHBxSHhQMTUtUjA",
+   "name": "lab1.odt",
+   "mimeType": "application/vnd.oasis.opendocument.text",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B0H1d_xteDjZRG15cHZwVkl6MWc",
+   "name": "131080057_Jignesh_Thakkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5upW307Prpfb1pNdUVHak50MDg",
+   "name": "131080022_Jeet_Wagle_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0M2hMdDNsakx5TEE",
+   "name": "141080975_Resume_Nilesh_Bhoir.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GZBRDRP1GGN2JaV2hWVTFqeXc",
+   "name": "131081043_Resume_Bhagyaprabha_Kamble.PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1NqEJnMtw7UgkqXatvjz3azWREspzHCkQ87aTEZDiVQc",
+   "name": "141081972_Resume_RushnaKhan.pdf",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1T59azhRTaUiURFaqligufuAeauLMrKMdqCZuUGm16Dg",
+   "name": "141081969_Resume_Priya_vaitY.pdf",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B6ZkHaseTWwQZzlOaklkMzFjOG8",
+   "name": "131080058_Resume_Harshad_Naik.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoWkNTSnh6Y1ZTYW1aRW9udWJ1YU41cDFLZHJV",
+   "name": "131080047_Vyankatesh_Khadakkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ymxvj-Ba09T2dJRnctUVVRRjg",
+   "name": "131080002_Resume_Akshay_Khairkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwdZ-AjADxSxUFFZN1k2allBdVU",
+   "name": "131090053_Rohan_Purswani_Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B53d51wPfvYgMEc3UnpMeDR0c0k",
+   "name": "131081032_RESUME_Vishakha_ Mundhe.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCS1lKWk1SUGNzSXc",
+   "name": "131080019_Resume_Vaibhav_Savla.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8MnqxyK24K4enF6ZHRnMWx2Mk0",
+   "name": "131080063_Resume_KaranShah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoRDZoMGx4ejRvS0pvTTd3UnpzaExBUVpNTHBJ",
+   "name": "131030037_Resume_AnuragSarda.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-OXdtZU1lX1hJam8",
+   "name": "BTech IT 2012-16 Batch Project Details",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoVnNzRFpVdWYtZzBoMmJVbVJxMVJSVk90MmxJ",
+   "name": "131080001_Resume_Mahesh_Walde.PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuodnlxT3VWcEVvWVNHN29sOUZVa0JraElUbHJJ",
+   "name": "131080014_Resume_NiteshIdnani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ZkHaseTWwQNnZxcGhoeHdoWnM",
+   "name": "SOA Principles of Service Design.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0Bzy-96sjjWYedWUyRnNXRG5icjg",
+   "name": "131080011_Resume_RudraMishra.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-uiTZcNZVj-NVM0RHhRMFlWd1U",
+   "name": "131080059_Rohan_Sewaney.PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1QobfLnkfLcirrix_kXmo6Vk5Ypk9X2g5wdmW_fARg68",
+   "name": "131080014_Nitesh_Idnani.docx",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1ghOI2oKBJ5DPj7DpZNCsjDvjYyjDNvqb0mEAoXNz5ss",
+   "name": "131080014_Nitesh_Idnani.docx",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoaWxDX3VSck53UlhKa0VBYi1pWFpTZ19DQmVJ",
+   "name": "141081967_Resume_PoojaPatil.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoTGRuSXp2UkFPMlE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-9CVuBgU7eSdDdqNGVBVk9oMU0",
+   "name": "W3schools Offline Version.7z",
+   "mimeType": "application/x-7z-compressed",
+   "trashed": false,
+   "parents": [
+    "0B4hjI7V5ZclkWEQtTlp4d0RDRzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7pHmA0_3jXRZElpUnZSMFhhOVE",
+   "name": "TOEFL Books",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B7pHmA0_3jXRNE5kTVVxRmh3UW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCMlNUZVBHSjJfSDA",
+   "name": "Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "189u9UQNhMoOCLpqcsUGgsmJ94CHZc1FlfFkT_uudIsQ",
+   "name": "List of Companies with Campus date and Salary  2014-2015 (1)",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B9W1MkDH_tuoanVaZXB5RUJMb3BxMVBWZ2JqaU5tNnRtTS1R",
+   "name": "131090053_Rohan_Purswani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoNENTV0RhWWR6NUsxRGhZVjQ3c0NQNXhfaElJ",
+   "name": "131080059_Rohan_Sewaney.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-SEVEMnRPMjZhN28",
+   "name": "BTech-IT-Projects.xlsx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OXdtZU1lX1hJam8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9KH9TcsQxFHWkI4N2gydjNSc00",
+   "name": "Vijay Bhandare_Dolat Capital.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9KH9TcsQxFHV01EYkJBZHZNeDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCZWE1S1NZV0tEeWs",
+   "name": "11 Breaking the Habit (Single Edit).mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCc1BKRFhHT0ZrNlk",
+   "name": "03 Bleed It Out (Radio Edit).mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCekF4VnI0cWpCNGs",
+   "name": "27 Sin City.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCYlZQWEdwczZscGc",
+   "name": "02 Burn It Down.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCYUdnRV9obDdxZTQ",
+   "name": "36 High Voltage.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCVk9iRkEyblR2a3M",
+   "name": "07 What I've Done.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCVHEweEhLQVRfNjg",
+   "name": "13 Shadow of the Day (Single Edit).mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCalNhYjZOTmllX1U",
+   "name": "33 Are You Ready.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCcFplM19fLTcwUFE",
+   "name": "38 Whole Lotta Rosie.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCeUdDYl94SnFURGM",
+   "name": "18 Big Gun.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCd05sekpnQUUwVXM",
+   "name": "21 Moneytalks.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCRU9ma2JVLS1QWmc",
+   "name": "04 Lost In The Echo (Album Version).mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCOG85Mk9MaGt3Z0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCcHpMZ29sMkMzWTg",
+   "name": "44 Shot Down In Flames.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCSHB4NndpZ29fXzQ",
+   "name": "30 Big Balls.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCQ2hTVTRLUWVFQ3c",
+   "name": "31 Rocker.mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCZ1RDV0NzTURISTQ",
+   "name": "09 It's A Long Way To The Top (If You Wanna Rock 'n' Roll).mp3",
+   "mimeType": "audio/mpeg",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCY18wc3JKNm1DNGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1u5Iipmw1MkDfwfr01980Dz6H8_jEy__5DITgl_A4lBA",
+   "name": "IBJ Placement Experience",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-eFVHVFk5aGdPTEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-TnpqTi1ReHZJdms",
+   "name": "Placements 2015-16",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B32MZdgL0KBqOE1sQUZoR0l1MWM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-cXNyeVRZYnRXRTg",
+   "name": "Internship 2014-15",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B32MZdgL0KBqUko5Smd4eHh5dFU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-QTloTlZXUjlCdVk",
+   "name": "SAP-LABS-Hitesh-Parmar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-MTVFcFRWS2h2V3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-VmYwUlpiYm9lbW8",
+   "name": "Citius Tech.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aEpaM2tDazN1cXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-WWZpRUJkMUtZUUU",
+   "name": "J P Morgan.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OFk2bnhCbFVUcWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-aEdxWThkSTZFMEk",
+   "name": "CISCO by Chinmay Patil.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aktDWXg1VWRNanc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-aktDWXg1VWRNanc",
+   "name": "CISCO",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-TnpqTi1ReHZJdms"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-cnpOWGpuUjFMTlE",
+   "name": "Sudarshan_Panke_Placement_Experience.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-cDhjMGQySUtRV0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0eENTME55dTZwRU0",
+   "name": "IMG_20160505_082543.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0RWt1Y3JYTldDMU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0aHBMaUh5U1dha0U",
+   "name": "IMG_20160505_124126.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0RWt1Y3JYTldDMU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0S0t0MzdPTkxFRjg",
+   "name": "IMG_20160505_132005.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0B3sc23Wg52W0RWt1Y3JYTldDMU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3sc23Wg52W0RWt1Y3JYTldDMU0",
+   "name": "Alibaug Visit Maitri special",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCSXZBYzVIY1RwVGc",
+   "name": "IT-INFRA-MANAGEMENT.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Byxxuaf2oKdmTHFFQ2syWEVua0E",
+   "name": "InterviewProcess.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0Byxxuaf2oKdmSFNNTGZzbGZZUFk",
+   "name": "InternshipOpportunity.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_VoNxcpakx6XzhWaWNia2Q4ZFE",
+   "name": "combo words 1111.rar",
+   "mimeType": "application/x-rar",
+   "trashed": false,
+   "parents": [
+    "0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZFk3RHpGWk40eE0",
+   "name": "Prentice Object Oriented Software Engineering Using UML Patterns and Java 3.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "17z63tlsXFm5ILBMRY5JSmmtgi3coFujaZnbWMGtEYSo",
+   "name": "Python_Project_List",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B0f63xboqFpIWm9HeGUwTVVTSjg",
+   "name": "AUD-20151123-WA0005.m4a",
+   "mimeType": "audio/x-m4a",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMjg4cW1tUFRaa0U",
+   "name": "sem VI",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCaFl1RjFwMl9vSGM",
+   "name": "Resume.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCMDkyNDh2T0UxRUU",
+   "name": "detect.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCeEstYVJMa195UFE",
+   "name": "detect.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B6imnTliNsZISHNRSUhwZWJaMEk",
+   "name": "Reportico Integration.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1SxudFX8hke06QrQxKhZaxjg-Jo4F1cjdHOJQC1kiphs",
+   "name": "IC_Testing_OnQuiz",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1M3VRDL_UZiPskT9Q8jp2usZJBzhMshTkimrIILNcvsA",
+   "name": "C_Testing_OnQuiz",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCdUxTWUQ3Rk5Lc00",
+   "name": "VJTI-DBA-PROJECT.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-JCGARiUih1OG9NbnU2OEJWdEU",
+   "name": "SamsungInternship_SaifuddinHitawala.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-Ykw5SGJXNWVqQmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "13PQ2IRIOz-B_-r78FAhrx2QCi4XcBVwblt1eAPEOg9c",
+   "name": "Samsung_Internship_PPO_AkshayAdvilkar.docx.docx",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-Ykw5SGJXNWVqQmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3tUkGez_BBEc0d5YVdXVlRzZ2M",
+   "name": "Akshay Advilkar_Samsung PPO Experience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-QXhiTk5vVFluQ00"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B-JCGARiUih1bmthRUNIajFTZFE",
+   "name": "Saifuddin Hitawala_Samsung PPO Experience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-QXhiTk5vVFluQ00"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_Kr2rLF2xF_NFJmMkUwZ3hoVmM",
+   "name": "JPMC_OCTOBER_2015_INTERVIEW_EXPERIENCE.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OFk2bnhCbFVUcWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bx6KOGPJ9B5oV19ZZnBzTUFZbG8",
+   "name": "JP Morgan Interview Experience- Faraaz Merchant.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OFk2bnhCbFVUcWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2duH632dDl9TTY4R0lBUVNhVU0",
+   "name": "sagar Chaudhari IT BOA.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-QWxiTUo2SUpZWnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B4XfTwCEFzhvSUxNVjM4MWdYMm8",
+   "name": "Ritwik Patnekar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OEphbmZRaWZzcGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2LvntLId5u0UldqOW5WOTRET3M",
+   "name": "BOA_AAKASHR.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-QWxiTUo2SUpZWnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6iXnHuXmH_LVzFmR1NYNW5mWDA",
+   "name": "Dinesh Mulchandani-Barclays Experience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2NLBwrI9-Z3Rkg3Vk5nUndiMzQ",
+   "name": "Barclays Experience -Rohit Wadhwani.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-TFFQS1NWU0M5ekU",
+   "name": "AmazonExperience.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-ZmxPWktrc19VU0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-QXhiTk5vVFluQ00",
+   "name": "Pre placement Interview during Internship",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-cDhjMGQySUtRV0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCQzVPd05zazMzUHM",
+   "name": "abc.txt",
+   "mimeType": "text/plain",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_m8OTAk4TeNUjZwVTJEYklJWG8",
+   "name": "Dolat Capital_Anurag_IT.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9KH9TcsQxFHV01EYkJBZHZNeDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_dcb7_aqFQubmI4WHRmVkJiQjA",
+   "name": "Rajshri Jio Experience.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-SGdqcXFQMDFQMjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1F82XEUynXXgvgGgGX8gjS_WcUOqS-a-wrCYfymdaRR4",
+   "name": "Test Cases",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1Danwhl4Dh8mR783fDcFbGhL4mZSuoQj78KTMMizWFzI",
+   "name": "OOSE Exp 5a.docx",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCSmpRX21peGVuSEk",
+   "name": "OOSE Exp 5a.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCaHNIUE55MDFDcTI5a0VFMDI2dy1hX0ZxNVdV",
+   "name": "OOSE Exp 5a.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": true,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "1p0K8ook8XWxmKvLwLoCuRU57rG0hZKVwPe-MHWqbry8",
+   "name": "Untitled document",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0BxCJ5s1JKioadmZtcVpLYTBYUFU",
+   "name": "Purplle_roshani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-U0FTSGo2ZEt4RG8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxCJ5s1JKioaRncwX1FGazJ4NkU",
+   "name": "IBM_roshni.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-c0RPdERjUU1ucGc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B731FBBarYSrWlpLeU05cE4wTWc",
+   "name": "Accenture_Bhairav_Jain.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aElMM1F1TksyeUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1P8V2SnDZdMjY65R8S4_w_WjUL0ihDTvf-ok2wPdHx-Q",
+   "name": "OFSS - Sahil Gandhi",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-SC0tUUVUN3haSDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1uIHjm2LpZlemyXw5rBxPUMyCGAL7HL6qQclq6cKq4tE",
+   "name": "Barclays - Sahil Gandhi",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B53IDcdFqKuGa1FCS0dYdWVEajg",
+   "name": "Shubham_Tambi_Wipro digital experience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-bWlucHhIblhQSDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B7gjcO4nMRKKbS05dk9uNzRXbzg",
+   "name": "SAP Interview Exp - Karan Khanchandani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-MTVFcFRWS2h2V3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwP7lv5QO03bQktTN19rWkxPTW8",
+   "name": "CitiusTech -Malay.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aEpaM2tDazN1cXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2NLBwrI9-Z3bVVaXzFIRk1Ka1k",
+   "name": "Rohit_Wadhwani (MAQ_Internship).docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B2NLBwrI9-Z3RDBQWWFZVHhsa1U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0Bzd9HOT2kATIeFB2NXRqbV9lVU0",
+   "name": "SAP Labs_Lakshmi_Deore.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-MTVFcFRWS2h2V3M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2NLBwrI9-Z3RDBQWWFZVHhsa1U",
+   "name": "MAQ",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-cXNyeVRZYnRXRTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1aEQSdO9Aq0NXdHU19SOFZyeGs",
+   "name": "Quantiphi.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-cGdyMTZiUG50V00"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B3W6V8rdrueeeUg5QkpkVzU2aGs",
+   "name": "121081034_Pooonam_Sonnur.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-c0RPdERjUU1ucGc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1VdnhTvQDWUS2paclpNVktBRDQ",
+   "name": "RaveInterviewExperience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B2duH632dDl9dVl0LWJocEF6QnM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B28Gpz_0xdCMZEcxSDdTMERmQjg",
+   "name": "Barclays interview - Akshay Bhadra.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1nTvcU7zh2p0lIWecjYXmNv3fCgmHg_sdTtbg4pVKovE",
+   "name": "Oracle - Tejash Desai",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-SC0tUUVUN3haSDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2XEkAIqMAPqWFFSRlRjT3pVZDQ",
+   "name": "131081987_Komal_Shinde.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-c0RPdERjUU1ucGc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2duH632dDl9dVl0LWJocEF6QnM",
+   "name": "Rave Technologies",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-TnpqTi1ReHZJdms"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_62CzTwnqSKZFpsd1pTVzM4Tm8",
+   "name": "JPMorgan_Srushti_Gawand.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OFk2bnhCbFVUcWs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzchSbaomCBneUFnaXB4ejdMc2c",
+   "name": "PoornimaPatil_ Wipro digital experience.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-bWlucHhIblhQSDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_Znd6DEAiwbZkF0QmtiS1JVWGc",
+   "name": "Mediaocean.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B_Znd6DEAiwbd0NudnRYbjFxNjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_Znd6DEAiwbd0NudnRYbjFxNjA",
+   "name": "MediaOcean",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-TnpqTi1ReHZJdms"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8u4ANV7E469X3BTbmZWN18xVmc",
+   "name": "CitiusTech -Shreyash.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aEpaM2tDazN1cXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1Ekd3wZ_XiVTXjtqoKFBMSOB9Ydxkiw_Er8r38jJNodY",
+   "name": "Oracle - Akshay Borgharkar",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-SC0tUUVUN3haSDg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6ZZyiWQl9YyVkF3U1EzTTFBYms",
+   "name": "Accenture_Sailee_Tilekar.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aElMM1F1TksyeUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxeKyvB2tqTGVERkU1NKVnVWRU0",
+   "name": "BarclaysInterview-KarenLobo.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B2ty1xpO-BjHQWd0TlRmRkN2Sms",
+   "name": "Nomura Interview.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-MXpGSnpGV3dBWW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "14AgWESQq0BfuvbB8dodosPF7kdk8vinjGgkb7IshIn0",
+   "name": "TY_IT_details",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "1V7dzqHzRSFFbW79jrvrEP-L1_6huhF2c0FeUxQDcM3Q",
+   "name": "Barclays - Akshay Borgharkar",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "19tplZmqARmv0VtVF-3WgsRNKdZqhN3Phksx5IRAodU0",
+   "name": "WT_Projects",
+   "mimeType": "application/vnd.google-apps.spreadsheet",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoLXRBS2x6RWdsdWYtMzRjSmtHWUs3UE9kYlo4",
+   "name": "141081972_Rushna_Khan.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1Vj5izLX6PtLU90dUF0Y2Fqakk",
+   "name": "Yogesh Korke_ Wipro digital experience.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-bWlucHhIblhQSDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B59kYl4sRkKecnpsN21FZjhDLXc",
+   "name": "Nikhil_Chavan.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OEphbmZRaWZzcGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoVVN4bW1ESGNKa3hnaWFyWHd6b2tTUjhxZUM0",
+   "name": "sagar sable_resume1.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZ045LXdOVTRFRHdjRl9tZG9iT1RCTVBwanlz",
+   "name": "131081007_shivanee_shinde.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCTlpwTDRyQmNLb0E",
+   "name": "Color LCD-933C106C-08BC-09AA-F750-C2A74A119DEF.icc",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCcmJqMVVWVlBGWk0",
+   "name": "client_secret.json",
+   "mimeType": "application/json",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCLUNxSUtOejByQms",
+   "name": "commands.cpython-34.pyc",
+   "mimeType": "application/x-python-code",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCWkZDZ3FOelpXdjQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCV1FiZE5GOTNBREE",
+   "name": "utils.cpython-34.pyc",
+   "mimeType": "application/x-python-code",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCWkZDZ3FOelpXdjQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVUpQWXR4MUVMZ1E",
+   "name": "pyDrive.cpython-34.pyc",
+   "mimeType": "application/x-python-code",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCWkZDZ3FOelpXdjQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVHUxMGhpbVNBVnc",
+   "name": "auth.cpython-34.pyc",
+   "mimeType": "application/x-python-code",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCWkZDZ3FOelpXdjQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCWkZDZ3FOelpXdjQ",
+   "name": "__pycache__",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCTGFkblJ3OGRpWm8",
+   "name": "commands.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCVXNiQmJtZ08wRWs",
+   "name": "auth.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCU2pFSld4Z0t3eUU",
+   "name": "utils.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCTzJ0cUxKZFd2OVE",
+   "name": "pyDrive.py",
+   "mimeType": "text/x-python",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCUDZkbklpSnFYZzQ"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCUDZkbklpSnFYZzQ",
+   "name": "pyDrive",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0BydSOk3EGE00aGZkcXN6TmtkZ28",
+   "name": "OOSE",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1HZT3LZy9Ktq10FPyVSo0xRi_iUP0jVW5Nv3t2xRCgZk",
+   "name": "07-802.11e.ppt",
+   "mimeType": "application/vnd.google-apps.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCa2hyTUxPcF9IU1E",
+   "name": "River Rafting",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMajZQV0FfeEtGbHM",
+   "name": "05-adhoc.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMkpDaFJKakVzQlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZ0xZRV9ROXhEMHc",
+   "name": "04-mobile-IP.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMkpDaFJKakVzQlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1mvJxlK1zwbWEM4INB9cW1dlg2-nOxd6-ppKRqudliB8",
+   "name": "Barron",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BzLQ1PdI2I19MGs3a3hxdEc0SUZnTDN1QXNjQ0lFRWljXzNB",
+   "name": "VJTI EXTC Placement Gyaan.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B32MZdgL0KBqdFVLQXAxVU93M0E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8FCfYbumEs3bV9wd2l2eVU5c3M",
+   "name": "Citicorp Experience Suraj Salunkhe.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-Wlc2UzBQUTVRZFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCUkk0cjVRWmFnTms",
+   "name": "Resume.pdf.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B_frl2CT_oRCT21kVW1sdnlxMm8",
+   "name": "FHD0020.MOV",
+   "mimeType": "video/quicktime",
+   "trashed": false,
+   "parents": [
+    "0B_frl2CT_oRCa2hyTUxPcF9IU1E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B8GlMTeq4kNUaWdsTHZzUEJJMGc",
+   "name": "CS-ShreyaShah.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-a1kwQ1hlWXVVOXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoUXg0MXJpWDVaUGc",
+   "name": "131080014_Nitesh_Idnani.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoWjF6cGVKSndpQjg",
+   "name": "131080014_Nitesh_Idnani.docx",
+   "mimeType": "application/msword",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoME5nWV9Ednk3elE2Qmx4OFg1R2ZkeU55QVNz",
+   "name": "131081040_Ankitaa Rattan.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B_frl2CT_oRCWUhHQ3kyeENwdE9WdDNMQVNfaXBORk9uQkZz",
+   "name": "NodeTuple.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0APfrl2CT_oRCUk9PVA"
+   ],
+   "shared": false
+  },
+  {
+   "id": "0B1GzYFg9XnslNlRNdnMwQkJxWTQ",
+   "name": "Barclays Internship Interview (Sankalp) Nov 2014.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-aUNXY1RaMUFYbXc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B1GzYFg9XnslRVJZUWQ4RFM2Qlk",
+   "name": "Nomura Placement Interview (Aug 2015).docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-MXpGSnpGV3dBWW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "1UKuxIUfj1o8GcahR1JEvLeKPWekA07t5c7Qo1jYqISU",
+   "name": "Barclays Interview - Tejash Desai",
+   "mimeType": "application/vnd.google-apps.document",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-REtRX2JPUlVDSm8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B5gaivUz2LUeVHZtcGY3d1FnZms",
+   "name": "Mrunali Ghelani - Deloitte USI Placement Experience.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-OEphbmZRaWZzcGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B6wq8AwWtYY-Ykw5SGJXNWVqQmM",
+   "name": "Samsung",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-cXNyeVRZYnRXRTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BwWpauCLJSIWTVhzQnRlVlA3dk0",
+   "name": "CitiCorp Final- Eashan Kadam",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B6wq8AwWtYY-Wlc2UzBQUTVRZFE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuocW1pT09pcDdKVXgzb0hUOURpU3RXdW9jTkUw",
+   "name": "141081971_Vidya_Chintamani.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQWtXcXpmeExUNTg",
+   "name": "01-intro.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMkpDaFJKakVzQlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOXBpU1BOQ2xwd1U",
+   "name": "02-transmission.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMkpDaFJKakVzQlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuocTRCNTM3bXhnZHM",
+   "name": "131081033_Tejasvi_baviskar.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZldSNFlfbzRYdk0",
+   "name": "141081976_Dipali_Sonawane.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoT2xUbWFsakp3R0U",
+   "name": "141081969_Priya_VaitY.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoVGE4X0NSd0lxcjA",
+   "name": "141081967_Pooja_Patil.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoM19pdTMzYjkyX3M",
+   "name": "141080975_Nilesh_Bhoir.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuodlBoN2pCdHlrMXM",
+   "name": "141080973-vinayak_rane.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoSE9RTXpsYTF6VWM",
+   "name": "141080970_Prathamesh_Sanap.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoUWRkbzdDLU1YZjA",
+   "name": "131081056_Shreeshaa_Kulkarni_VJTI.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoM1hNbGc1SGZaYUE",
+   "name": "131081043_Bhagyaprabha_Kamble.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZ3lDYWN6cjRtbEk",
+   "name": "131081041_Disha_Jain.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoV0cyWHdad1Rob00",
+   "name": "131081034_Priya Masne.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZXBpVEd3M2d2TmM",
+   "name": "131081032_VISHAKHA_MUNDHE.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuod0w2Q09iMUMzSzQ",
+   "name": "131081008_Rajeshree Kalaskar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuobk1WSW1YbWQ0NDQ",
+   "name": "131080063_Karan_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZjZ5MUpUU0Rpc2c",
+   "name": "131080061_Vivek_Bhatt.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoaEhpQk0yaEtmb1U",
+   "name": "131080057_Jignesh_Thakkar.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoeHJnQWh5M0lJeEU",
+   "name": "131080055_janit_mehta.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuob0Ztc2w4TnJnOFk",
+   "name": "131080053_Advik_Shetty.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuocFEtaWVBcjlwY2M",
+   "name": "131080048_Sahaj_Gandhi.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoa0hvOUVIOVR5c28",
+   "name": "131080047_Vyankatesh_Khadakkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoU1ZaTVpZOEcxM28",
+   "name": "131080046_Bhavesh_ Deore.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoSlNFR1dfRksxLWM",
+   "name": "131080026_OMKAR_MATE.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZHUxWDNiVlRLaDg",
+   "name": "131080025_KRUNAL_GAIKWAD.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoa0dIYkhLNjRRZ0k",
+   "name": "131080023_ketan_vijaykar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZng5bWsxLUFJems",
+   "name": "131080022_Jeet_Wagle_Resume.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZFM2dW1ILVF6Rlk",
+   "name": "131080021_Utsav_Shah.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuobFdvNEc0RE53ejg",
+   "name": "131080020_Vidhit_Patni.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoUG9tWVpBYWZEcTg",
+   "name": "131080019_Vaibhav Savla.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuocDZyMTB2Uzh2LUk",
+   "name": "131080016_Mikin_Shah.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoZEJGTDBVRnNvLW8",
+   "name": "131080004_MAHESH_JAGTAP.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoMTdLaV9udkdIeWs",
+   "name": "131080003_Dhananjay_Nagargoje.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuodkZ0VW92eFFaR00",
+   "name": "131080002_Akshay_Khairkar.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoazUtWklFc1lwSzQ",
+   "name": "131080001_Mahesh _walde.docx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "trashed": false,
+   "parents": [
+    "0B9W1MkDH_tuoSEREenVFM2hTaEU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0B9W1MkDH_tuoSEREenVFM2hTaEU",
+   "name": "T.Y.I.T Resume",
+   "mimeType": "application/vnd.google-apps.folder",
+   "trashed": false,
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLTNHT3RaMlNOaHc",
+   "name": "ObservableClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMSVpKNFdHRC1LZGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNHpkMGlKeWVYMFE",
+   "name": "AdaptableClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMSVpKNFdHRC1LZGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVERYMDlsVXotSzg",
+   "name": "AbstractClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMSVpKNFdHRC1LZGM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRFp4NDVucWt6ZTQ",
+   "name": "OriginatorMessage.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOGlydU9yclJuVEk",
+   "name": "ObservableServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMU18wdkdPQzZzMVE",
+   "name": "ObservableOriginatorServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQ2RjNEVkRnZxLWs",
+   "name": "ConnectionToClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMN3hvek5fMWdJVkE",
+   "name": "AdaptableServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWi12TDFxUi1ESGc",
+   "name": "AbstractServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdFJKMkFUMW5uWHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWXZLMlVNVHpqWmc",
+   "name": "USZipCode.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdEcyMC1EOEhPS2M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdTJ2M3g2Z1d4bDA",
+   "name": "PostalCodeException.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdEcyMC1EOEhPS2M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOW1UVklzWF92eWs",
+   "name": "PostalCode.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdEcyMC1EOEhPS2M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZEtVS3ZDNUU2Tk0",
+   "name": "CanadianPostalCode.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdEcyMC1EOEhPS2M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYXZJeG9RTGE3cTg",
+   "name": "BritishPostalCode.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMdEcyMC1EOEhPS2M"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSkFnRWxkaFJYQjQ",
+   "name": "ChatClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMczRVYW9CS0xhbDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVzc5SU84UDdqbk0",
+   "name": "ChatIF.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMSEVGN1UxSGJpQjA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVmFWU3FfVVVCTmM",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMRy1FelRPNE9RbW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMb29kM3ZweGRTREk",
+   "name": "SimpleServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMT1hRWl95d2QxbW8",
+   "name": "SimpleClient.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMU3RKbERNb1I4dUE",
+   "name": "ServerFrame.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWjRCLTA5QkZ6cGM",
+   "name": "ServerDriver.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMR0NvbTdodWZIZ2c",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYUlVZDZ2enZYYlk",
+   "name": "ClientsFrame.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMaG45NjEwSXVPazA",
+   "name": "ClientFrame.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMcEU2VGFjdUtxUzA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMelRGaDJRNEFWa2c",
+   "name": "PointCPTest.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMeVVNbGZCWW9fbTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMN2hOVEY1d2VDTTA",
+   "name": "PointCP.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMeVVNbGZCWW9fbTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTVdac1lZdWFhclU",
+   "name": "oldPointCPTest.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMeVVNbGZCWW9fbTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQ3d5dzZWSkU5cWc",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMeVVNbGZCWW9fbTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTWJQWUZ2OERLeWs",
+   "name": "PostalTest.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMVzlnb2dIb0lWV0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRURoRUJqRFhYX0U",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMVzlnb2dIb0lWV0U"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbHV3eVBqWWtsZkE",
+   "name": "Testcases-Phase1.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUndKX29xZlZhZHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTGZ6VkYtVmZENXc",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUndKX29xZlZhZHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTUY1ejJKa1U0TVU",
+   "name": "EchoServer.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUndKX29xZlZhZHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbWVNNk5MYXhWQjA",
+   "name": "ClientConsole.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUndKX29xZlZhZHc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbXZxNHQ2aGRQeUE",
+   "name": "Testcases-Phase2.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTlBsYU5mc01hYU0"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQVltcm9KeWVDY1k",
+   "name": "ThreadExample.java",
+   "mimeType": "text/x-java",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMVk44WWtEQTNtRTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSGR3NHlxWVpBWUE",
+   "name": "index.html",
+   "mimeType": "text/html",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMVk44WWtEQTNtRTg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRFEta2JROHZlY2c",
+   "name": "LlosengCh11E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMR2FXaE51RjF0Zm8",
+   "name": "LlosengCh10E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRFgyV3JqNndSeTA",
+   "name": "LlosengCh09E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbS02R29neGhnVGc",
+   "name": "LlosengCh08E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQWcyMFRBWUFGMVU",
+   "name": "LlosengCh07E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbTMtRmxPSENqOUE",
+   "name": "LlosengCh06E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSE0tei1nZzhmZlU",
+   "name": "LlosengCh05E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMa2FXbnBpXy13MHc",
+   "name": "LlosengCh04E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRnB3NVpRTzBMNDg",
+   "name": "LlosengCh03E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcXJ5V0YtQjNPTDA",
+   "name": "LlosengCh02E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNjd1ZGtfV1ZTcm8",
+   "name": "LlosengCh01E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOEVKTFNkNUhxRDA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYnp2ZnRDcG9UZ2c",
+   "name": "MANETs.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWG1DSnJ0RENtekU",
+   "name": "Data Dissemination.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZzkxdzczSkpsdHc",
+   "name": "12-sensor_network.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMY25yQWQtallSNms",
+   "name": "11-wimax.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRy1xWmdKbVloNWc",
+   "name": "10-cdma.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNVBqREp4bmVTZlk",
+   "name": "09-mac.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUDFTSjBOcnBtanM",
+   "name": "07-802.11e.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNl9wN1Vqb2tTX28",
+   "name": "06-mobile-TCP.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeGlEMnRrenJ6WmM",
+   "name": "06-gsm.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMV3lLd1R0ZVFDeUU",
+   "name": "05-adhoc.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZ2FHcFFTSVRKdEk",
+   "name": "04-mobile-IP.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWG9yMUo4UG1DWm8",
+   "name": "03-802.11.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMR1cxUllwMExDQzA",
+   "name": "02-transmission.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMU0ZOSEl2N2VTY0k",
+   "name": "01-intro.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMQUF5S0NyNk9Kc0k"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMS0pqeUFYV0VYeXM",
+   "name": "wireless_lans.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMU195Z041NVFxUTA",
+   "name": "transport_protocols.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUjV6Z21DUGVlakU",
+   "name": "pmMobileTCP.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMU3k5M2hLczEwbTA",
+   "name": "mobile_routing.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeXFXVlcwTkFZYlU",
+   "name": "mac.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdHVXMUxKdHBXUFU",
+   "name": "introduction.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMajhCT2F1eE5LUk0",
+   "name": "files-Lecture_notes_C08-Network_Protocols.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdEZ4NGdub0dxeUk",
+   "name": "Ch07_WLAN.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZkVtcHcwa3ZfY2M",
+   "name": "Ch04-Wireless_Tele_Sys.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMM19ZaFY3WU9QU1E",
+   "name": "C11-Outlook.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLTVHcXJBcDV0eG8",
+   "name": "C10-Support_for_Mobility1.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVzJUMDkxVkhfaGc",
+   "name": "C08-Network_Protocols_2.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeEdOaHV2OXZwR1k",
+   "name": "C08-Network_Protocols.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOGt6WGRsMEhqeWs",
+   "name": "C08-Network_Protocols.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcnZtZFVVR1NEeFk",
+   "name": "C07-Wireless_LANs_2.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSS1xUG16OUUyT00",
+   "name": "C07-Wireless_LANs.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVklCNzQwUE13N2M",
+   "name": "C07-Wireless_LANs.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNUxUcmJmY3hHRE0",
+   "name": "C06-Broadcast_Systems1.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRUVjbzRSQXRmeU0",
+   "name": "C05-Satellite_Systems1.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYTNHVFgzRWdhMWM",
+   "name": "C04-Wireless_Telecommunication_Systems2.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNEFTSkhmcVZOTG8",
+   "name": "C02-Wireless_Transmission.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMDFDSW16QzJxOFU",
+   "name": "C01-Introduction_3.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZC1sNFE3ampBbTg",
+   "name": "C01-Introduction_2.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbTdaR2R3clp4dWM",
+   "name": "C01-Introduction.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMM00zaW9TVi1vRmM"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdkFzUGVSRlNSdjg",
+   "name": "Project Management in IT.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQnY5WGptSk5jZkk",
+   "name": "Chapter 12 Project Procurement Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMS0JMcXF5MndBVlk",
+   "name": "Chapter 11 Project Risk Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMaVBYcm05MjBQd00",
+   "name": "Chapter 10 Project Communications Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTE1mLTk0Nm5QUlk",
+   "name": "Chapter 09 Project Human Resource Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRUU3c0tjM1VXcms",
+   "name": "Chapter 08 Project Quality Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMR2FNT0FmZm02azA",
+   "name": "Chapter 07 Project Cost Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMS0hCQlphX19EN1E",
+   "name": "Chapter 06 Project Time Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcTBDRnJETGYwZGs",
+   "name": "Chapter 05 Project Scope Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeVR4LUYtYmN2a2c",
+   "name": "Chapter 04 Project Integration Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbm11MmhYVG1LbEU",
+   "name": "Chapter 03 The Project Management Process Groups- A Case Study.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbWNNRnhzaEhVaFk",
+   "name": "Chapter 02 The Project Management and Information Technology Context.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeW9TeU80QVNreFU",
+   "name": "Chapter 01 Introduction to Project Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3VEUWxFNkNuaW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMS3NDcGViYXMxSVE",
+   "name": "project_management.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVGxrZXVkcklFZ2s",
+   "name": "Project Management Fundamentals.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMd1NzcHhfWlFSZVk",
+   "name": "PM integration.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMc2VsYjgweFU2OVU",
+   "name": "integration mangament.doc",
+   "mimeType": "application/msword",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLW9LeS1DVzY4UkE",
+   "name": "9_Project_Human_Resource_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYld1ZVFkRm9WN00",
+   "name": "8_Project_Cost_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLXF1cHZDQTFrYU0",
+   "name": "7_Project_Risk_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRjdGR2ZXZXJMeG8",
+   "name": "6_Project_Scope_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZjhZRE5FRVNybWs",
+   "name": "5_Project_Quality_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYXJyTkdzaXYtUG8",
+   "name": "4_Project_Procurement_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQzJNbTNucGdWYk0",
+   "name": "3_Project_Time_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcVV2eW9TSVNJeUU",
+   "name": "2_Project_Integration_Management.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMY0pNRmdIbjRvTEk",
+   "name": "1_Introduction-Project_Management_Fundamentals.pptx",
+   "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOTJIUDJ6TzkxWjg"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSGs5U0FObW1ncWc",
+   "name": "IMG_20150114_161734.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUmstUDNpT3hfcGc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNnlhR2lib2FvOUU",
+   "name": ".picasa.ini",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUmstUDNpT3hfcGc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMaGFNSG5famlnNzA",
+   "name": "ch07-121230102456-phpapp02.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWlRBNXU5TFh4eGM",
+   "name": "ch06-121230104231-phpapp02.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVmRCRVpGQnpNb3c",
+   "name": "ch04-121230102316-phpapp01.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRnJQYW8tYlBCLWs",
+   "name": "ch03-121119020504-phpapp02.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbUk4bGpqU3ZMLVE",
+   "name": "ch02-121119015507-phpapp01.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRHhTZnl4a0N4cUE",
+   "name": "ch01-121021222848-phpapp02.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTmxybHVjSGdhY2c",
+   "name": "05projecttimemanagement-130906123242-.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbzY0eTlZOUFMYUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSnc3WXlVMTdhYm8",
+   "name": "Mobile-Communication.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMaFlTMEFQR2FSa2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLXBneWs0WFFQWXc",
+   "name": "__Object_Oriented_Software_Engineering__Practical_Software_Development_using_UML_and_Java.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMSzdFcWVEWkJycUU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZ1ZWem9GN0JLRTg",
+   "name": "Chapter 4 (Part 2) - Discussion of Example Requirements.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMjZlaFpTcHNqbGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUEt3T2xHZkVzSzg",
+   "name": "Chapter 4 (Part 1) - Simplechat and Requirements.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMjZlaFpTcHNqbGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWXJNVko4NDkyVzQ",
+   "name": "Chapter 2 (Part 2) - Inheritance, polymorphism and review of key Java concepts.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMjZlaFpTcHNqbGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMkFRQjRIbURyY1E",
+   "name": "Chapter 2 (Part 1) - Basics of Object-Orientation.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMjZlaFpTcHNqbGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMTnBZMHBFQWRHeUk",
+   "name": "Chapter 1 - Software and Software Engineering - YouTube.mp4",
+   "mimeType": "video/mp4",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMjZlaFpTcHNqbGs"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVHpiM0JhVjZaSm8",
+   "name": "LlosengSlidesE2.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbVktM2x6b05uZlU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVExTRVRvcnBNdkk",
+   "name": "llosengcode.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbVktM2x6b05uZlU"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVWJiU003NW1rSFE",
+   "name": "03-802.11.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMkpDaFJKakVzQlk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMa0RTeF9qaW92S0k",
+   "name": "~$LlosengCh03E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOEgwVUd1NFMxbmc",
+   "name": "~$LlosengCh02E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQkJFWG1DaEE0bWM",
+   "name": "LlosengSlidesE2.zip",
+   "mimeType": "application/zip",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdmdORlFjNmVmeFk",
+   "name": "LlosengCh11E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZFZoaDMzT29fd28",
+   "name": "LlosengCh10E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNmE5QnNDOTB3VUE",
+   "name": "LlosengCh09E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMM1VndEgwbWtra0E",
+   "name": "LlosengCh08E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMEFfLXZIU3EweHc",
+   "name": "LlosengCh07E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUXduMnljUnVBUjA",
+   "name": "LlosengCh06E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMV2NmejViMEVHdVE",
+   "name": "LlosengCh05E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcXFQMnJjeHU2WWs",
+   "name": "LlosengCh04E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdV9mUjROcXRzdHM",
+   "name": "LlosengCh03E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMLXNTZWdEdjlZdG8",
+   "name": "LlosengCh02E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMeDQ5SjhlMW5oSEE",
+   "name": "LlosengCh01E2v4.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMbDZtaWhrSzY3aDQ"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVGVFbDY5anpmdW8",
+   "name": "Project Management in IT.jpg",
+   "mimeType": "image/jpeg",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMG5hZjVaZjJHMEU",
+   "name": "Chapter 12 Project Procurement Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNWdFSC1uNV9Lcjg",
+   "name": "Chapter 11 Project Risk Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMM0RrQjZfcUJhQkk",
+   "name": "Chapter 10 Project Communications Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUWJZZ3dfcUU3S00",
+   "name": "Chapter 09 Project Human Resource Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUEFsTGxoNExLUzQ",
+   "name": "Chapter 08 Project Quality Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYlY4WXBfVkNfOWc",
+   "name": "Chapter 07 Project Cost Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZS13ZzUzUVA1aDQ",
+   "name": "Chapter 06 Project Time Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZm00cjlRWjNjbE0",
+   "name": "Chapter 05 Project Scope Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMazlTQVp5TktocDg",
+   "name": "Chapter 04 Project Integration Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRFNSRVlBOV9pSEU",
+   "name": "Chapter 03 The Project Management Process Groups- A Case Study.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMcTg5bF92Q0Fjekk",
+   "name": "Chapter 02 The Project Management and Information Technology Context.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRXNjeGlYNVJBLTQ",
+   "name": "Chapter 01 Introduction to Project Management.ppt",
+   "mimeType": "application/vnd.ms-powerpoint",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMMUJ2RUdtTVQ4UEk"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMNUxsV25wN2VrS2M",
+   "name": "Software Project Mangement. Nov 2014.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUVBjc1o4UEtBc2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWURkUGtwd0dtR3M",
+   "name": "Software Project Management.May13.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUVBjc1o4UEtBc2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMb3FRSVNJM2V1cUU",
+   "name": "Software Project Management.May12.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUVBjc1o4UEtBc2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZ2pRMkJMbHBBcGc",
+   "name": "Software Project Management.April14.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMUVBjc1o4UEtBc2c"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWG8taENlcXdpNGc",
+   "name": "Nicholas Project Management for Engineering Business Technology 4th txtbk.PDF",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3p2cEZJZE5nRTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRVlSOVdZejlCczA",
+   "name": "Kathy Schwalbe - Information Technology Project Management.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3p2cEZJZE5nRTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSGsyU3hQbC12NlU",
+   "name": "IT Project Management.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMX3p2cEZJZE5nRTA"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMdFFiX19feW1hVjA",
+   "name": "spm_mst_paper.doc",
+   "mimeType": "application/msword",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOVVTNFpnRUU2aW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMThfbGY2SWdwREk",
+   "name": "spm_ct1_paper.doc",
+   "mimeType": "application/msword",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMOVVTNFpnRUU2aW8"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQVAyTERVOWtsMU0",
+   "name": "KS_IT Upravljanje projektima_6e.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTnNRa2NHZ2lHRVE"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMXzdVekNQdm10NW8",
+   "name": "n3.pdf",
+   "mimeType": "application/pdf",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTjBVVUdUZU5NS0E"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMUjBxNy1zMWxDNDA",
+   "name": "README.TXT",
+   "mimeType": "text/plain",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMOTJtQUp6X1haQzA",
+   "name": "Chap32.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMN2J4QjVvZUNPaDQ",
+   "name": "Chap31.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMRi1MQlUwZXhjMEE",
+   "name": "Chap30.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMbFE5YzIzaFk0Z0E",
+   "name": "Chap29.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMYk41bUlScDBGdE0",
+   "name": "chap28.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMamZDejFwbzBHcVU",
+   "name": "Chap27.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMWWc4bG1oSkRNcWM",
+   "name": "Chap26.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMQko0allmMU1ITlU",
+   "name": "Chap25.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMMkFrcU1kT25pU2c",
+   "name": "Chap24.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMZWxXRTA4eklJcTg",
+   "name": "Chap23.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMSHBjcy1rTGl0YlE",
+   "name": "Chap22.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  },
+  {
+   "id": "0BxsxQKEPmRMMVERoUnhlR3MyQXc",
+   "name": "Chap21.code",
+   "mimeType": "application/octet-stream",
+   "trashed": false,
+   "parents": [
+    "0BxsxQKEPmRMMTk9rZW91TlhTaWc"
+   ],
+   "shared": true
+  }
+ ]
+}
